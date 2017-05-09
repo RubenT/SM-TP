@@ -1,3 +1,0 @@
-117 u 30197
-250 ú 108
-Discrepancy between occurences = 0
