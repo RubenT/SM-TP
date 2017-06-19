@@ -1,5 +1,3 @@
-package LZW;
-
 import java.io.*;
 import java.util.HashMap;
 import java.util.LinkedList;
@@ -9,8 +7,7 @@ public class LZWTokenizer {
     private static Scanner io;
     private static int original = 0, compressed = 0;
     public static void execute() {
-        //String filename = getFileName();
-        String filename = "squares.raw";
+        String filename = getFileName();
         File f = new File(filename);
         original = (int)f.length();
         HashMap<String, Integer> dictionary = new HashMap<>();
@@ -18,6 +15,7 @@ public class LZWTokenizer {
         LinkedList<Integer> output = new LinkedList<>();
         encodeLZW(f, dictionary, output);
         writeToFile(new File(filename + ".txt"), output);
+        System.out.println("Success");
     }
 
     private static void writeToFile(File file, LinkedList<Integer> output) {
