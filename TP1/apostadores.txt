@@ -1,10 +1,1000 @@
-09776820|Noémia Joyce Anlicoara|Castelo Branco    Castelo Branco    Cebolais de Cima    1 290     1 286|13-05-2017
-79035546|Cândida Borba|Coimbra    Vila Nova de Poiares    S. Miguel de Poiares    1 481     2 068 |13-05-2017
-41647900|Godofredo Normando Macena|Guarda    Almeida    Porto de Ovelha    83    1 429|13-05-2017
-71770080|Amanda Golias Bouças Alencar|Faro    Tavira    Santo EstevÃ£o    1 287     2 636|13-05-2017
-06014765|Donato Manuela Águeda Pestana |Lisboa    Alenquer    Alenquer (Triana)    3 532     3 228|13-05-2017
-86534346|Lilian Cássia Ruas Goes|Viana do castelo    Arcos de Valdevez    Loureda    219    462|13-05-2017
-97474626|Julieta Figueiró|Viseu    Vila Nova de Paiva    Queiriga    712    3 546|13-05-2017
-58503713|Lino Kelvin Morais|Beja    Ferreira do Alentejo    AlfundÃ£o    998    5 190|13-05-2017
-78198183|Calisto Goulart|Ã‰vora    Ã‰vora    Torre de Coelheiros    817    22 623 |13-05-2017
-23096448|Maristela Franco|Lisboa    Lisboa    Pena    6 068     49|13-05-2017
+00086987|Adalgisa Samara Ferrão Quezado|Braga    Esposende    Belinho    2 146     737|19-06-2017
+26349337|Naomi Delores Carmo Bicalho|Aveiro    Murtosa    Torreira    2 495     3 209 |19-06-2017
+46527794|Dinis Dinis|Porto    PaÃ§os de Ferreira    Raimonda    2 518     381|19-06-2017
+00261704|Ermengarda Junia Rêgo Valadão|Beja    Aljustrel    Messejana    1 112     11 316|19-06-2017
+94965847|Sérgio Alancastro|Santarem    Tomar    Asseiceira    3 201     2 899|19-06-2017
+98680120|Sabrina Ema Melgaço|Beja    Beja    Beringel    1 525     1 600|19-06-2017
+05038662|Arlete Hélder Barreto|Vila Real    Montalegre    Vilar de Perdizes (S.Miguel)    532    2 556 |19-06-2017
+44935242|Rute Érica Barreiros|Faro    Lagos    OdiÃ¡xere    2 522     3 183 |19-06-2017
+01068021|Jonata Meirelles|Aveiro    Ã�gueda    Belazaima do ChÃ£o    588    2 009|19-06-2017
+51094720|Agnes Edelmiro Antas|Vila Real    Sta. Marta de PenaguiÃ£o    Lobrigos (S. JoÃ£o Baptista)    1 449     657|19-06-2017
+69727600|Altina Júlia Inácio Damascena|Porto    PaÃ§os de Ferreira    Lamoso    1 710     302|19-06-2017
+56137512|Paloma Dinis Eiró|Castelo Branco    PenamacÃ´r    Salvador    589    1 021|19-06-2017
+04245975|Romeu Capitolina Vasques|Castelo Branco    Idanha-a-Nova    Oledo    485    2 757|19-06-2017
+09994616|Neandro Natividade Paião Poças|Braga    PÃ³voa de Lanhoso (N. S. do Amparo)    Calvos    482    448|19-06-2017
+57404514|Dione Jussara Prada Vale|Porto    BaiÃ£o    Covelas    724    620|19-06-2017
+70734288|Hermes Seabra|Braga    Vila Nova de FamalicÃ£o    Gondifelos    2 183     853|19-06-2017
+33916293|Hildefonso Viviana Ouro Candal|Viana do castelo    Ponte de Lima    CabaÃ§os    703    595|19-06-2017
+47754141|Ataliba Garcia|Viseu    Viseu    Rio de Loba    8 407     1 574|19-06-2017
+39742092|Leonardo Monjardim|Braga    Braga    Real    4 871     132|19-06-2017
+08005270|Caetano Celso Xavier Muniz|Coimbra    Oliveira do Hospital    Alvoco das VÃ¡rzeas    366    1 073|19-06-2017
+75291868|Janaína Marcelo Cedraz Portugal|Santarem    Cartaxo        Cartaxo        10 115     1 903|19-06-2017
+13132889|Vicente Osmar Pamplona Godinho|Guarda    Sabugal    Aldeia Velha    490    1 885|19-06-2017
+36939912|Bartolomeu Igor Borja Britto|Beja    Serpa    Vale de Vargo    1 073     5 792|19-06-2017
+81714042|Deonilde Dália Quaresma Pimentel|Coimbra    Cantanhede    PocariÃ§a    1 163     1 229|19-06-2017
+68348933|Ricardina Curado|Guarda    Guarda    Vila Garcia    334    1 708|19-06-2017
+47555725|Joyce Cleide Vilarim Janes|Castelo Branco    CovilhÃ£    Vales do Rio    839    486|19-06-2017
+72402203|Nicolas Bandeira|AÃ§ores    Vila do Porto    S. Pedro    841    1 849|19-06-2017
+33958317|Adriana Laila Bicalho|Vila Real    AlijÃ³    Sta. EugÃ©nia    411    779|19-06-2017
+89104757|Marília Loreta Ramalho|Viseu    Nelas    Nelas    4 073     2 147|19-06-2017
+19063833|Juca Gil|Viana do castelo    MelgaÃ§o    Alvaredo    614    448|19-06-2017
+40102799|Amado Valcanaia|Viseu    Penedono    Penela da Beira    410    1 596|19-06-2017
+90540909|Ana Delores Assis Cardoso|Viseu    Viseu    CavernÃ£es    1 471     1 413|19-06-2017
+40204389|Agnete Fartaria|Faro    OlhÃ£o    PechÃ£o    3 033     2 031|19-06-2017
+94215153|Godofredo Hércules Lins Beça|Lisboa    Lisboa    Penha de FranÃ§a    13 722     66|19-06-2017
+30154058|Herculano Rodrigues|Braga    Celorico de Basto    Borba de Montanha    1 255     991|19-06-2017
+66128389|Osmar Hernandes|Guarda    Figueira de Castelo Rodrigo    Penha de Ã�guia    169    1 746|19-06-2017
+87215290|Vânia Fabiano Campos Torreiro|BraganÃ§a    Vinhais    QuirÃ¡s    225    2 719|19-06-2017
+95632058|Belmiro Alexander Pequeno|Porto    Vila Nova de Gaia    Madalena    9 356     602|19-06-2017
+42004293|Cristina Quintanilla|Viana do castelo    ValenÃ§a    Verdoejo    635    382|19-06-2017
+67663336|Silvano Adelino Melgaço Campelo|Lisboa    Torres Vedras    Turcifal    3 008     2 451|19-06-2017
+72399577|Núbia Elsa Soeiro|Lisboa    Cascais    Parede    17 830     356|19-06-2017
+80160244|Nívia Custódio|Braga    Fafe    Agrela    271    144|19-06-2017
+85927937|Quirino Octávio Velasques|Braga    Cabeceiras de Basto    GondiÃ£es    314    2 165|19-06-2017
+71800217|Sidónio Sidónio Medeiros Rêgo|Santarem    Tomar    Casais    2 471     2 744|19-06-2017
+17793986|Venâncio Severiano|Lisboa    Mafra    Gradil    901    744|19-06-2017
+48284846|Ermínia Vilanova|Viseu    Mangualde    Cunha Alta    211    417|19-06-2017
+23703601|Vera Alancastro|Leiria    AlcobaÃ§a    Alpedriz    849    1 550|19-06-2017
+65369804|Guida Areosa|Porto    Felgueiras    AirÃ£es    2 628     448|19-06-2017
+85886209|Violeta Dulce Gameiro Pais|Viana do castelo    Paredes de Coura    Linhares    230    530|19-06-2017
+01491246|Acácio Melanie Brandão|Vila Real    Vila Pouca de Aguiar    Sta. Marta da Montanha    195    1 312|19-06-2017
+10134392|Wilian Violeta Barbosa|Coimbra    LousÃ£    LousÃ£    10 395     5 739|19-06-2017
+18992423|Esdras Delfim Cangueiro Paz|Aveiro    Vale de Cambra    Roge    1 901     1 652|19-06-2017
+77761307|Cláudio Michael Damásio Mendoza|Coimbra    Arganil    Arganil    3 981     3 438|19-06-2017
+22653433|Irina Carlos Lisboa Quintela|Lisboa    Oeiras    Linda-a-Velha    21 952     232|19-06-2017
+27389501|Maísa Dores Portugal Pinheiro|BraganÃ§a    Mogadouro    Vale de Porco    158    1 586|19-06-2017
+68922793|Daniela Vilas-Boas|AÃ§ores    Ribeira Grande    Calhetas    780    470|19-06-2017
+02895830|Evelina Horta|Aveiro    Vagos    Fonte de AngeÃ£o    1 245     955|19-06-2017
+57691413|Pablo Mauro Maciel|Porto    Gondomar    Barrosas (Santo EstevÃ£o)    933    470|19-06-2017
+85844060|Lorena Vital Gusmão|Viseu    Penedono    CastainÃ§o    182    1 400|19-06-2017
+24425428|Valter Diogo Salguero Barcelos|Aveiro    Ovar    Esmoriz    10 993     905|19-06-2017
+16530012|Valentino Farinha|Leiria    Leiria    Azoia    2 269     1 243|19-06-2017
+78161137|Déia Violante Valim|Faro    Castro Marim    GiÃµes    307    6 595|19-06-2017
+51668965|Denise Antero Conceição|Faro    LoulÃ©    Ameixial    604    12 135|19-06-2017
+78115933|Belinda Viegas|AÃ§ores    Horta    Ribeirinha    439    1 127|19-06-2017
+03000159|Bryan Ofélia Bessa Camelo|Lisboa    Lisboa    S. JosÃ©    3 279     34|19-06-2017
+19439317|Ester Lameiras|Beja    Serpa    Aldeia Nova de S. Bento    3 430     24 169|19-06-2017
+93729520|Ermengarda Cornélio Bessa Rebello|Braga    GuimarÃ£es    Selho (S. CristovÃ£o)    2 569     226|19-06-2017
+75233956|Sidney Hirondina Carrasco Jordão|Porto    Lousada    CaÃ­de de Rei    2 636     666|19-06-2017
+25071178|Geraldina Aponino Carvalhoso Nascimento|Braga    Esposende    Esposende    3 471     185|19-06-2017
+18661726|Adorinda Nadir Costa Sintra|Lisboa    Cadaval    Cadaval    2 435     1 269|19-06-2017
+12309757|Cristiano Basílio Feitosa Ximenes|Guarda    Guarda    Pousada    179    1 300|19-06-2017
+11573384|Sílvia Eugénia Vale|Porto    Marco de Canaveses    VÃ¡rzea da Ovelha e Aliviada    2 294     1 436|19-06-2017
+11654153|Hélio Granja|Viana do castelo    MelgaÃ§o    Alvaredo    614    448|19-06-2017
+21093646|Cornélio Pessanha|BraganÃ§a    Freixo de Espada Ã  Cinta    Poiares    507    4 064 |19-06-2017
+00820129|Natacha Luciano Macieira Lira|BraganÃ§a    Moncorvo    Lousa    508    3 497|19-06-2017
+40797706|Lúcio Benevides|Porto    Paredes    Vilela    5 080     379|19-06-2017
+08198086|Libânia Erico Milheiro Dias|BraganÃ§a    BraganÃ§a    Zoio    203    2 518 |19-06-2017
+86760427|Donaldo Bogalho|Santarem    MaÃ§Ã£o    Cardigos    1 233     7 134|19-06-2017
+04753984|Noemi Humberto Campelo|Braga    Braga    Este (S. Pedro)    1 806     409|19-06-2017
+22787385|Elton Ariela Aveiro|Viseu    CinfÃ£es    Espadanedo    1 406     547|19-06-2017
+75496993|Virgínia Joaquina Milheirão Casado|Ã‰vora    Ã‰vora    N. S. da Tourega    804    19 884|19-06-2017
+66483880|Máxima Fátima Roriz Souto Maior|Vila Real    Chaves    Ã�guas Frias    897    2 896|19-06-2017
+35886963|Laila Fialho|Viana do castelo    Viana do Castelo    Anha    2 513     912|19-06-2017
+14641475|Aura Cinara Gonçalves Amaro|BraganÃ§a    Vinhais    Vilar de Lomba    205    2 203|19-06-2017
+04877283|Geraldo Clementina Pires Barros|AÃ§ores    PovoaÃ§Ã£o    Ribeira Quente    798    988|19-06-2017
+75280299|Conceição Yara Caeiro Nunes|Guarda    Seia    Valezim    382    1 094|19-06-2017
+19063577|Mariana Cirne|Coimbra    Miranda do Corvo    Lamas    935    1 583|19-06-2017
+06071730|Eugénio Rosário Penha Torquato|Lisboa    Odivelas    Odivelas    53 448     502|19-06-2017
+58576252|Wilton Núbia Monteiro Fonseca|Viseu    S. JoÃ£o da Pesqueira    Nagozelo do Douro    517    661|19-06-2017
+66465568|Leopoldina Noronha|Vila Real    Vila Real    CampeÃ£    1 627     2 391|19-06-2017
+54302147|Leopoldina Lauro Garrau|AÃ§ores    Lagoa (AÃ§ores)    Lagoa (NÂª Sra do RosÃ¡rio)    5 401     621|19-06-2017
+24432182|Adelino Magalhães|Aveiro    Ovar    VÃ¡lega    6 742     2 664 |19-06-2017
+85236916|Eustácia Alana Canhão|Leiria    AnsiÃ£o    Avelar    2 089     848|19-06-2017
+60303085|Norberto Vigário|Vila Real    Boticas    Granja    266    879|19-06-2017
+70191255|Yuri Ariana Severo Resende|Leiria    Caldas da Rainha    Coto    1 135     550|19-06-2017
+08519609|Josélia Quinzeiro|Beja    Ourique    PanÃ³ias    634    11 035|19-06-2017
+01760198|Dagmar Vânia Valente Mattos|Porto    Felgueiras    UnhÃ£o    866    362|19-06-2017
+25414533|Micaela Guimarães|Viseu    S. Pedro do Sul    Pindelo dos Milagres    714    1 936|19-06-2017
+08487751|Edgar Patrício Faia|Vila Real    Montalegre    Sarraquinhos    378    3 294|19-06-2017
+24281559|Apólo Jacinto Villaverde Lóio|Santarem    Abrantes    Alferrarede    3 831     2 362|19-06-2017
+87862879|Ania Lina Faustino|Porto    Porto    SÃ©    4 751     48|19-06-2017
+03163144|Michael Belchiorinho|Braga    Vila Verde    Penascais    281    191|19-06-2017
+66250486|Gilberta Cosme Rivero Imperial|Viseu    Penedono    Beselga    354    1 519|19-06-2017
+50612243|Nicole Cascais|Castelo Branco    Vila Velha de RÃ³dÃ£o    Sarnadas de RÃ³dÃ£o    693    5 983|19-06-2017
+25129388|Teófilo Travassos|Porto    Vila Nova de Gaia    Vilar de Andorinho    16 710     652|19-06-2017
+11251012|Clara Humberto Gomide Mata|Santarem    Tomar    Tomar (Sta.Maria dos Olivais)    12 801     1 723 |19-06-2017
+48964866|Emílio Genoveva Zarco Padilha|Braga    Vila Nova de FamalicÃ£o    Abade de Vermoim    351    33|19-06-2017
+56795833|Edmundo Vilaverde|Braga    Barcelos    Carvalhos    781    350|19-06-2017
+61522452|Carmelinda Holanda|Braga    Vila Nova de FamalicÃ£o    RuivÃ£es    2 117     272|19-06-2017
+95056049|Neiva Martins|Guarda    Guarda    Vale de Estrela    418    1 295|19-06-2017
+00601081|Salomão Marcos Mora|Santarem    Torres Novas    Parceiros de Igreja    985    1 240|19-06-2017
+45315045|Argeu Ariela Lamego Reino|Porto    Santo Tirso    Areias    2 599     277|19-06-2017
+45836719|Leandra Isabel Peixoto|Braga    Vila Verde    Marrancos    548    329|19-06-2017
+70401757|Telmo Gameiro|Vila Real    Boticas    Bobadela    354    1 478|19-06-2017
+75379775|Mateus Estela Silvestre|Coimbra    Cantanhede    Vilamar    770    620|19-06-2017
+62269290|Elza Tomé Moita Arruda|Aveiro    Sta. Maria da Feira    Sanguedo    3 542     431|19-06-2017
+74840662|Áurea Simas|Guarda    Guarda    FamalicÃ£o    755    1 440|19-06-2017
+02377539|Maurício Pascoal Motta Madruga|Aveiro    Oliveira de Azemeis    Loureiro    3 491     2 100|19-06-2017
+20639416|Cleide Ieda Quinterno|BraganÃ§a    Macedo de Cavaleiros    Vilarinho do Monte    72    731|19-06-2017
+13616407|Dolores Rudolfo Belchior Calçada|Guarda    MÃªda    RabaÃ§al    348    1 358|19-06-2017
+41864500|Virgílio Vilar|BraganÃ§a    Miranda do Douro    Cicouro    105    1 451|19-06-2017
+14370086|Ubiratã Madureira|AÃ§ores    Velas    Santo Amaro    902    2 123|19-06-2017
+99888572|Josafá Piteira|BraganÃ§a    BraganÃ§a    Meixedo    188    1 154|19-06-2017
+89717682|Ado Calvino Parente|Guarda    Sabugal    Badamalos    99    1 339|19-06-2017
+60139846|Dina Moisés Abreu|Viseu    Viseu    Vil de Souto    710    811|19-06-2017
+97267945|Atanásio Laurentina Sotomayor Travassos|AÃ§ores    Lajes das Flores    Fazenda    278    943|19-06-2017
+86064338|Brígida Helga Paião|BraganÃ§a    BraganÃ§a    S. JuliÃ£o de PalÃ¡cios    283    3 404|19-06-2017
+94699100|Rubina Agostinho Madruga|Lisboa    Loures    Moscavide    12 184     77|19-06-2017
+79961770|Adriana Sesimbra|Braga    GuimarÃ£es    Conde    1 437     155|19-06-2017
+52828269|Nicolau Alcoforado|Castelo Branco    FundÃ£o    Alcongosta    573    748|19-06-2017
+03671916|Jocelina Nair Talhão|Viseu    Sernancelhe    Granjal    305    1 684|19-06-2017
+25697960|Albertina Ramos|Porto    Vila do Conde    TouguinhÃ³    1 458     476|19-06-2017
+65481147|Jonata Matta|Porto    Vila Nova de Gaia    Vila Nova de Gaia (Sta Marinha)    30 758     600|19-06-2017
+13273207|Diana Luca Pedro Natal|Ã‰vora    Vendas Novas    Campo    840    12 941|19-06-2017
+86470392|Rúbia Sacadura|Guarda    Guarda    Marmeleiro    516    2 776|19-06-2017
+50618569|Sílvio Beatriz Rebelo|Viana do castelo    Viana do Castelo    Deocriste    742    639|19-06-2017
+37801594|Judith Apolinário Bulhosa|Viana do castelo    Ponte de Lima    Brandara    479    251|19-06-2017
+24045856|Maitê Jorge|Vila Real    Chaves    Anelhe    538    1 249|19-06-2017
+53561108|Ermelinda Vasques|Leiria    AnsiÃ£o    Lagarteira    566    776|19-06-2017
+09753361|Cesária Aurélio Valverde|Porto    Amarante    Lomba    859    322|19-06-2017
+59471741|Jeremias Sobral|Aveiro    Castelo de Paiva    Raiva    2 394     1 210|19-06-2017
+10582684|Lívia Armindo Bicudo|Lisboa    Lisboa    S. Paulo    3 521     41|19-06-2017
+55993772|Antonieta Máxima Gameiro|Guarda    MÃªda    Meda    2 094     2 787|19-06-2017
+50822591|Adelinda Grangeia|Viana do castelo    Ponte da Barca    Azias    422    1 462|19-06-2017
+03127176|Amélia Adalgisa Coronel Cangueiro|Guarda    Guarda    Vela    567    2 229|19-06-2017
+69316188|Anastácio Bruno Cavalheiro Pimenta|BraganÃ§a    Mirandela    SuÃ§Ã£es    770    3 594|19-06-2017
+48177261|Diva Edgar Mora|Braga    Barcelos    Aguiar    574    245|19-06-2017
+68656200|Calisto Nivaldo Castilhos Lemos|AÃ§ores    Vila Franca do Campo    Vila Franca do Campo (S. Miguel)    4 047     1 947|19-06-2017
+37215719|Libânio Fátima Castanheira Fogaça|Vila Real    Chaves    CalvÃ£o    450    1 964|19-06-2017
+26528972|Pascoal Ivete Rodrigues|AÃ§ores    Nordeste    Achada    503    1 119|19-06-2017
+04658402|Martina Caiado|Braga    GuimarÃ£es    Gondomar    676    487|19-06-2017
+61088580|Benedito Adelinda Taborda|Lisboa    Vila Franca de Xira    PÃ³voa de Sta. Iria    24 277     395|19-06-2017
+41136549|Olinda Quadros|Beja    Castro Verde    CasÃ©vel    365    3 334|19-06-2017
+03404505|Alda Rebelo|Viseu    Moimenta da Beira    Nagosa    162    458|19-06-2017
+02195630|Adalgisa Clemente Torquato|Faro    Tavira    Sta. Luzia    1 729     446|19-06-2017
+31039312|Dina Helena Canto|Faro    Lagoa (Algarve)    Parchal    3 378     395|19-06-2017
+64871797|Carmo Élia Ataíde|Santarem    Rio Maior    Azambujeira    528    888|19-06-2017
+73459892|Alcina Fabíola Castanho Calheiros|Lisboa    Mafra    Vila Franca do RosÃ¡rio    888    617|19-06-2017
+23763432|Maristela Bethecourt|Guarda    Figueira de Castelo Rodrigo    Penha de Ã�guia    169    1 746|19-06-2017
+60732444|Adérito Aldara Minho|Porto    PaÃ§os de Ferreira    Carvalhosa    4 257     597|19-06-2017
+03322299|Nestor Telma Bernardes|Viseu    Viseu    Viseu (Sta. Maria de Viseu)    7 130     357|19-06-2017
+10136831|Eli Silvéria Sacadura Bezerril|Leiria    AlvaiÃ¡zere    MaÃ§Ã£s de Caminho    391    766|19-06-2017
+14601696|Anita Josafá Galante|Santarem    Chamusca    Chouto    715    20 530|19-06-2017
+74482525|Amado Julieta Marroquim Quintanilla|Santarem    Abrantes    Vale das MÃ³s    747    2 342 |19-06-2017
+35320664|Douglas Gilda Amaral Valim|Vila Real    Chaves    Cimo de Vila da Castanheira    605    1 574|19-06-2017
+84784278|Guilhermina Forte|Guarda    Guarda    Corujeira    143    474|19-06-2017
+06580633|Natalina Saltão|Coimbra    Cantanhede    Cantanhede    7 066     4 653|19-06-2017
+63000032|Liana Cambezes|Beja    Vidigueira    Vidigueira    2 973     2 762|19-06-2017
+05469755|Flaviano George Pasos|Viana do castelo    Paredes de Coura    Infesta    445    565|19-06-2017
+82668664|Rosa Amadeu Murtinho|Porto    Vila Nova de Gaia    Crestuma    2 962     493|19-06-2017
+48937882|Alana Carrasco|Vila Real    Mondim de Basto    ParadanÃ§a    373    809|19-06-2017
+59538664|Ulisses Rúben Vilarim|Vila Real    ValpaÃ§os    Veiga de Lila    330    1 437|19-06-2017
+02865255|Melanie Alencastre|Guarda    Trancoso    Cogula    228    437|19-06-2017
+34138258|Nídia Thays/Taís Travassos|Braga    Fafe    Agrela    271    144|19-06-2017
+64759719|Marisela Ana Guilheiro|Aveiro    Oliveira do Bairro    OiÃ£    6 712     2 674|19-06-2017
+63579257|Nivaldo Quirina Cantanhede Lameiras|BraganÃ§a    AlfÃ¢ndega da FÃ©    AlfÃ¢ndega da FÃ©    2 016     4 455|19-06-2017
+56379365|Igor Adélia Maciel|Viana do castelo    Viana do Castelo    Moreira de Geraz do Lima    628    403|19-06-2017
+82790831|Jesus Semedo|Braga    Vila Verde    Pico de Regalados    865    355|19-06-2017
+50224003|Alma Juliana Hilário|Viseu    Armamar    Fontelo    816    768|19-06-2017
+82511835|Fabiano Celestina Vasconcellos|Viana do castelo    MonÃ§Ã£o    Troporiz    297    238|19-06-2017
+67793554|Morgana Delfina Brandão|Guarda    Seia    Lapa dos Dinheiros    416    784|19-06-2017
+03857460|Wilian Cedro|Beja    Serpa    Vila Verde de Ficalho    1 446     10 503 |19-06-2017
+20503250|Herculano Araújo|BraganÃ§a    Vinhais    Rebordelo    665    2 215|19-06-2017
+38451429|Gilberta Lino Fraga Anhaia|Viana do castelo    MonÃ§Ã£o    Lapela    248    156|19-06-2017
+64524262|Viriato Honória Varejão Cotrim|Viseu    MortÃ¡gua    CortegaÃ§a    468    1 160|19-06-2017
+13152471|Edna Sidney Torcuato|Braga    GuimarÃ£es    Balazar    565    287|19-06-2017
+76950047|Irina Léia Salomão|BraganÃ§a    BraganÃ§a    Rio Frio    232    3 440|19-06-2017
+52695014|Jerônimo Cícero Quintanilha|Porto    PaÃ§os de Ferreira    Modelos    1 651     245|19-06-2017
+80452393|Mateus Celso Peseiro Ramos|Viana do castelo    Caminha    OrbacÃ©m    264    514|19-06-2017
+14472567|Samuel Jorge Camacho|Viseu    Lamego    Ferreirim    976    551|19-06-2017
+23733988|Iracema Jesabel Montenegro Milheiriço|BraganÃ§a    Freixo de Espada Ã  Cinta    Mazouco    206    1 881|19-06-2017
+81868575|Damião Felipe|Vila Real    Peso da RÃ©gua    Vilarinho dos Freires    1 013     832|19-06-2017
+80039858|Aurélio Vágner Aveiro Vilar|Santarem    Cartaxo        Vale da Pedra    1 753     1 350|19-06-2017
+51609794|Renan Maura Espargosa Quinta|Lisboa    Alenquer    Olhalvo    2 006     825|19-06-2017
+95346665|Cássia Palos|Leiria    AlvaiÃ¡zere    Rego da Murta    948    1 663|19-06-2017
+36251951|Juliana Eli Malafaia|Porto    Penafiel    Perozelo    1 366     492|19-06-2017
+86630927|Ferdinando Tasha Palma|Vila Real    AlijÃ³    PÃ³pulo    336    1 277|19-06-2017
+88770947|Catarina Negrão|Braga    Barcelos    Igreja Nova    445    190|19-06-2017
+89692086|Quirino Linda Rocha|Guarda    Trancoso    Aldeia Nova    394    2 560|19-06-2017
+55627943|Vilmar Pascoal Quintana|BraganÃ§a    Moncorvo    MÃ³s    309    5 869|19-06-2017
+79822254|Álvaro Clélia Maciel|Guarda    Aguiar da Beira    Souto de Aguiar da Beira    369    1 660|19-06-2017
+80718108|Hortênsia Ofélia Fontoura Cascais|Braga    GuimarÃ£es    GominhÃ£es    507    206|19-06-2017
+07124157|Ricardo Farinha|Viseu    Lamego    Vila Nova de Souto D'El-Rei    868    940|19-06-2017
+25880582|Guilherme Alana Faro|Lisboa    Lisboa    Alto do Pina    10 253     82|19-06-2017
+28891103|Raul Vidigal Quinaz Temes|Castelo Branco    SertÃ£    Cumeada    573    2 310|19-06-2017
+47123240|Bernarda Clementino Rebello|Santarem    Chamusca    Pinheiro Grande    1 051     3 216|19-06-2017
+70784457|Orlando Hirondina Mota|Castelo Branco    FundÃ£o    PÃªro Viseu    831    1 925|19-06-2017
+87969763|Violante Geraldo Carrilho|Porto    Santo Tirso    Santo Tirso    13 961     800|19-06-2017
+18934344|Margarete Hélio Candal Coutinho|Viseu    Oliveira de Frades    S. JoÃ£o da Serra    643    1 221|19-06-2017
+53936695|Hermes Maísa Rijo|Braga    Terras de Bouro Chorense    582    751|19-06-2017
+97522441|Ernane Lopes|Lisboa    Alenquer    Ribafria    974    910|19-06-2017
+69185216|Hildegarda Josefina Bogalho|BraganÃ§a    BraganÃ§a    Pombares    59    1 096|19-06-2017
+73729889|Aurora Lousã|Porto    Vila do Conde    Outeiro Maior    378    309|19-06-2017
+65531799|Urbino Glória Gomide Ramallo|BraganÃ§a    Vila Flor    Benlhevai    214    1 234|19-06-2017
+66753058|Ismael Camelo|Leiria    Pombal    Albergaria dos Doze    1 745     2 284|19-06-2017
+79208786|Sidónio Egídio Toscano Olivera|Porto    Penafiel    Recezinhos (S. Martinho)    1 873     544|19-06-2017
+41457991|Cássia Natalina Batata Letras|Santarem    Santarem    Almoster    1 827     4 084|19-06-2017
+97133768|Heitor Cássia Cavalheiro Palmeira|Guarda    Trancoso    Cogula    228    437|19-06-2017
+37326313|Flávio Hugo Damasceno Valido|AÃ§ores    Velas    Manadas (Sta. BÃ¡rbara)    400    1 250|19-06-2017
+91527694|Florêncio Garrido|Santarem    GolegÃ£    GolegÃ£    3 893     3 845 |19-06-2017
+95898005|Isaura Ari Ferreira|Viana do castelo    Ponte de Lima    Arca    772    131|19-06-2017
+36785110|Cândida Valdo Prates Amaral|Santarem    Torres Novas    PedrÃ³gÃ£o    2 095     3 938|19-06-2017
+52205689|Eunice Leandra Póvoas|Porto    Penafiel    Pinheiro    2 297     447|19-06-2017
+65838239|Vanusa Constança Baía Quaresma|Lisboa    Odivelas    CaneÃ§as    10 647     585|19-06-2017
+97983370|Dália Núbia Bento|Castelo Branco    FundÃ£o    Donas    912    808|19-06-2017
+06763232|Assunta Frederico Thomé|Viseu    CinfÃ£es    Nespereira    2 217     3 848|19-06-2017
+18949868|Cristela Glória Afonso|Viana do castelo    ValenÃ§a    ArÃ£o    820    300|19-06-2017
+99162168|Nadine Vanessa Urias|Braga    Barcelos    Gamil    838    346|19-06-2017
+14758673|Raimunda Malho|Porto    Penafiel    Rio de Moinhos    2 977     756|19-06-2017
+03972952|Josué Durval Sobreira|Vila Real    ValpaÃ§os    Barreiros    218    696|19-06-2017
+25471193|Ernesto Rúbia Valério|Santarem    Alcanena    Alcanena    4 339     1 031|19-06-2017
+71319876|Cibelli Bezerril|Braga    GuimarÃ£es    Mascotelos    1 328     131|19-06-2017
+08449445|Genoveva Américo Figueiroa Lousã|Guarda    Trancoso    Torres    217    1 025|19-06-2017
+46612339|Belmiro Alfeu Saloio|Porto    Santo Tirso    Vilarinho    4 036     570|19-06-2017
+20260187|Jocelina Elen Belmonte Garcez|Braga    Barcelos    ChavÃ£o    733    200|19-06-2017
+77995126|Noélia Dejanira Lousã|AÃ§ores    Lagoa (AÃ§ores)    Lagoa (Sta. Cruz)    3 501     1 426|19-06-2017
+43269298|Nei Cordélia Esparteiro Bezerra|Viseu    Mangualde    Moimenta de Maceira DÃ£o    664    639|19-06-2017
+95893254|Silvano Damião Cardoso|Braga    Vila Nova de FamalicÃ£o    Bente    959    130|19-06-2017
+92788246|Bryan Neusa Grande Alencastre|Viana do castelo    Arcos de Valdevez    Rio Frio    889    1 742|19-06-2017
+94390441|Mara Pessoa|Lisboa    Loures    Bucelas    4 810     3 390|19-06-2017
+61456500|Caio Evandro Pegado|Lisboa    Torres Vedras    Silveira    6 496     2 476|19-06-2017
+60677215|Carmo Adelaide Cangueiro|Viseu    Penalva do Castelo    Vila Cova do Covelo    317    887|19-06-2017
+92514517|Lena Severo|Leiria    Leiria    Pousos    7 325     1 579|19-06-2017
+53691999|Felicidade Ferreira|Aveiro    Sta. Maria da Feira    Arrifana    6 544     532|19-06-2017
+77463132|Gildo Ivete Rodovalho Viveiros|Lisboa    Loures    S. JuliÃ£o do Tojal    3 600     1 328|19-06-2017
+81047826|Sueli Kevin Robalo|Lisboa    Lisboa    S. CristovÃ£o e S. LourenÃ§o    1 612     8|19-06-2017
+16755384|Reginaldo Silvestre Braz Lustosa|AÃ§ores    Ribeira Grande    Rabo de Peixe    7 407     1 698|19-06-2017
+32352044|Neide Sueli Chagas Toledo|Madeira    Santana    Arco de S. Jorge    509    350|19-06-2017
+92224808|Jesabel Angelina Casado|BraganÃ§a    Carrazeda de AnsiÃ£es    Fonte Longa    355    1 113|19-06-2017
+59285519|Fernanda Evelise Hollanda|Porto    PaÃ§os de Ferreira    Arreigada    2 117     216|19-06-2017
+39750144|Keila Jardim|Guarda    MÃªda    Aveloso    287    753|19-06-2017
+66275186|Maristela Adonirã Gravato|Vila Real    Vila Real    Torgueda    1 583     1 372|19-06-2017
+85433258|Damião Odete Mesquita Aranha|BraganÃ§a    Freixo de Espada Ã  Cinta    Fornos    323    2 343|19-06-2017
+20970626|Serena Benedita Caires Mattozo|Braga    Braga    AdaÃºfe    3 959     1 016|19-06-2017
+72526964|Otoniel Nascimento|Lisboa    LourinhÃ£    Reguengo Grande    1 562     1 552|19-06-2017
+20607168|Ofélia Isis Sesimbra Azenha|Guarda    Gouveia    Ribamondego    338    648|19-06-2017
+05865871|Sofia Carrasco|Braga    GuimarÃ£es    Balazar    565    287|19-06-2017
+41763554|Belisa Serpa|Madeira    Funchal    S. Martinho    20 636     806|19-06-2017
+90571124|Nicole Adélia Vilanova Castello|Braga    Fafe    Ribeiros    732    562|19-06-2017
+19740872|Ricardina Maristela Barreto Ferreira|Viseu    Sernancelhe    Cunha    351    1 916|19-06-2017
+19121424|Anastácio Egídio Corte-Real Onofre|Lisboa    Azambuja    Vale do ParaÃ­so    1 040     445|19-06-2017
+79791558|Nancy Calvino Figueiró Souza|AÃ§ores    Velas    Velas (S. Jorge)    1 929     1 518 |19-06-2017
+90786918|Yuri Albino Lampreia|Braga    Barcelos    Roriz    2 152     691|19-06-2017
+05073310|Elsa Cachão|Braga    Braga    Braga (S. JosÃ© de S. LÃ¡zaro)    14 830     172|19-06-2017
+28192704|Vânia Júlia Prado Mendoza|Castelo Branco    Vila Velha de RÃ³dÃ£o    Fratel    760    9 786|19-06-2017
+58433537|Neusa Cangueiro|Viseu    S. Pedro do Sul    Candal    150    1 551|19-06-2017
+66790570|Frederica Laranjeira|Vila Real    ValpaÃ§os    FiÃ£es    146    1 014|19-06-2017
+67232814|Maura Neiva Rebocho|Viseu    Carregal do Sal    Oliveira do Conde    3 313     3 347|19-06-2017
+86634340|Nadina Celeste Pais|BraganÃ§a    Macedo de Cavaleiros    Talhas    417    4 360|19-06-2017
+01980794|Joaquim Zarco|Porto    Penafiel    Eja    1 198     466|19-06-2017
+16675462|Adelmiro Meira|Viseu    S. Pedro do Sul    Bordonhos    603    515|19-06-2017
+22705383|Marieta Reinaldo Vilhena Frade|Viana do castelo    Caminha    Venade    866    585|19-06-2017
+89731938|Rosália Laureano|Vila Real    Peso da RÃ©gua    Canelas    942    1 537|19-06-2017
+21556662|Ubiratã Mainha|Braga    Celorico de Basto    FervenÃ§a    1 410     1 118|19-06-2017
+91037675|Lena Graça Durão|Viseu    Mangualde    Cunha Alta    211    417|19-06-2017
+58800716|Ada Clemente Santos|Lisboa    Loures    Frielas    2 676     563|19-06-2017
+05586033|Mara Filipa Quinaz Arouca|Guarda    MÃªda    Prova    204    1 407|19-06-2017
+41245529|Ariana Edgar Pamplona|Viana do castelo    Ponte da Barca    Sampriz    407    651|19-06-2017
+40637294|Augusto Ferraço|Vila Real    Chaves    Paradela    318    846|19-06-2017
+73368015|Nélia Rebeca Janes|Aveiro    Vale de Cambra    Codal    1 025     214|19-06-2017
+27862947|Geraldina Cloe Villaverde Correia|Vila Real    Chaves    Madalena    2 004     605|19-06-2017
+99245295|Tarcísio Amarante|Porto    PÃ³voa de Varzim    Argivai    2 187     232|19-06-2017
+09246780|Dulce Noemi Milheirão|Porto    Vila do Conde    Mindelo    3 402     544|19-06-2017
+03263381|Roberta Dinarte Paz|Viseu    Armamar    Vila Seca    483    1 149 |19-06-2017
+69850990|Ramiro Pascoal Godoi|Coimbra    Condeixa-a-Nova    Bem da FÃ©    117    234|19-06-2017
+34526626|Milene Delores Sardinha|Braga    Vila Verde    Pico    596    205|19-06-2017
+78725758|Betânia Liana Mattos|Beja    Beja    Salvada    1 245     5 942|19-06-2017
+68467062|Clotilde Moacir Piteira|Guarda    Sabugal    Pousafoles do Bispo    338    1 885|19-06-2017
+83858363|Arcelino Sampaio|Guarda    Celorico da Beira    MaÃ§al do ChÃ£o    192    1 549|19-06-2017
+83028804|Consuela Geraldina Bernardes|BraganÃ§a    Mirandela    S. Pedro Velho    413    2 354|19-06-2017
+15892479|Fernando Pimenta|Braga    Barcelos    Silva    998    220|19-06-2017
+44836187|Paloma Margarida Montenegro|Viseu    S. Pedro do Sul    Manhouce    836    4 053|19-06-2017
+39336181|Valentino Elen Lessa Banha|Braga    Cabeceiras de Basto    Rio Douro    1 210     4 352|19-06-2017
+37662199|Morgana Sesimbra|BraganÃ§a    AlfÃ¢ndega da FÃ©    Valverde    161    1 000|19-06-2017
+54489406|Dores Vilanova|Porto    Lousada    Barrosas (Santo EstevÃ£o)    933    470|19-06-2017
+11260394|Lúcio Ermengarda Padilha Narvais|Coimbra    Miranda do Corvo    Rio Vide    897    1 146|19-06-2017
+21050555|Belarmina Romualdo Marcondes Pinto|Lisboa    Cadaval    Lamas    3 156     3 747|19-06-2017
+28884252|Theo Ester Peralta|Leiria    Leiria    Milagres    2 961     1 602|19-06-2017
+50221007|Nélida Hercília Malafaia|Guarda    Seia    Sta. EulÃ¡lia    322    426|19-06-2017
+59023884|Abraão Elda Júdice Miera|AÃ§ores    Praia da VitÃ³ria    Praia da VitÃ³ria (Sta Cruz)    6 171     3 015|19-06-2017
+59833866|Cátia Coitinho|Viana do castelo    Arcos de Valdevez    Sabadim    543    899|19-06-2017
+81983416|Ermelinda Macena|Porto    Maia    S. Pedro Fins    1 838     523|19-06-2017
+99995846|Viriato Rodríguez|Aveiro    Vagos    Santo AndrÃ© de Vagos    2 051     1 244|19-06-2017
+63741598|Dália Noélia Santana|Braga    Esposende    Rio Tinto    676    441|19-06-2017
+53369229|Petra Camargo|Guarda    Guarda    MaÃ§ainhas de Baixo    1 146     1 316|19-06-2017
+90961892|Aida Assunta Paião|Viana do castelo    MelgaÃ§o    Alvaredo    614    448|19-06-2017
+28312271|Ediberto Bulhosa|Viseu    Sta. Comba DÃ£o    S. JoÃ£o de Areias    2 283     2 144|19-06-2017
+07014868|Theo Canto|BraganÃ§a    Mirandela    Passos    479    1 843|19-06-2017
+20083531|Jorge Ernesto Borja Pastana|Porto    Vila do Conde    Vilar de Pinheiro    2 579     373|19-06-2017
+29890864|Lília Loide Baldaia|Castelo Branco    SertÃ£    Marmeleiro    304    2 970|19-06-2017
+44803239|Ilídio Sampaio|Guarda    Gouveia    VinhÃ³    624    671|19-06-2017
+74853977|Aníbal Agostinha Espírito Santo Sequeira|Viseu    S. JoÃ£o da Pesqueira    Vale de Figueira    585    1 039|19-06-2017
+10258314|Renato Loide Monte|Vila Real    Chaves    CalvÃ£o    450    1 964|19-06-2017
+62936293|Antonieta Borja|Porto    Felgueiras    Pinheiro    995    332|19-06-2017
+75575554|Mário Carminda Picanço|Vila Real    AlijÃ³    Vila Verde    844    4 209|19-06-2017
+22665313|Disa Florinda Castello|Braga    GuimarÃ£es    Sande (S. Martinho)    2 880     342|19-06-2017
+60869211|Jade Octávia Cesário|Santarem    Tomar    S. Pedro de Tomar    3 069     3 649|19-06-2017
+26298556|Calisto Ventura|Vila Real    MesÃ£o Frio    Cidadelhe    207    255|19-06-2017
+00638625|Laurinda Antonieta Carqueijeiro Ulhoa|Viseu    Castro Daire    Monteiras    586    2 167|19-06-2017
+69941820|Gil Hildefonso Tigre Piteira|BraganÃ§a    Mirandela    Franco    302    1 715|19-06-2017
+55449928|Erico Bernardes|Madeira    Santana    S. Roque do Faial    927    1 590 |19-06-2017
+94495150|Rute Domingues|Porto    Vila do Conde    Ã�rvore    4 261     626|19-06-2017
+01751134|Marisela Alma Sabrosa|Viseu    CinfÃ£es    Fornelos    835    946|19-06-2017
+28870664|Nivalda Xavier|Aveiro    Vale de Cambra    Vila ChÃ£    4 133     686|19-06-2017
+40067319|Bernarda Ferdinando Valentim|Ã‰vora    Redondo    Montoito    1 273     6 181|19-06-2017
+37378299|Janaína Ferro|Guarda    Fornos de Algodres    Juncais    316    887|19-06-2017
+16389295|Madalena Villena|Castelo Branco    PenamacÃ´r    PedrÃ³gÃ£o    580    2 178|19-06-2017
+58143803|Sabina Dânia Covilhã Távora|Viseu    Castro Daire    Mezio    521    1 162|19-06-2017
+99840484|Henrique Ademar Rolim|Aveiro    Sever do Vouga    Sever do Vouga    2 728     1 236|19-06-2017
+97815330|Américo Gisela Correia|Porto    Maia    Barca    2 769     313|19-06-2017
+88579542|Leocádio Chagas|Viseu    Penalva do Castelo    Germil    445    541|19-06-2017
+67849824|Lúcio João Galindo Cesário|Coimbra    Penacova    LorvÃ£o    4 220     2 577|19-06-2017
+04040033|Victor Idalina Liberato Caires|Guarda    Seia    CabeÃ§a    229    855|19-06-2017
+87614458|Rúben Orlando Pallos Covelhã|Porto    Penafiel    AbragÃ£o    2 527     887|19-06-2017
+01030414|Vera Bouças|Faro    LoulÃ©    LoulÃ© (S. Clemente)    14 406     4 742|19-06-2017
+59250482|Patrícia Antero Filgueiras Guerreiro|Braga    Amares    Sequeiros    273    308|19-06-2017
+43052064|Verónica Cerqueira|Braga    Barcelos    Faria    583    301|19-06-2017
+46881989|Lucília Olavo Castilho Feijó|Castelo Branco    Idanha-a-Nova    Idanha-a-Nova    2 519     22 629|19-06-2017
+90968206|Leonel Mayor|Braga    Esposende    Marinhas    5 677     1 172|19-06-2017
+51039775|Magda Brito|Viana do castelo    Ponte de Lima    Fornelos    1 535     1 050|19-06-2017
+34208823|Efigênia Narciso Canela Regueira|Braga    Braga    Sobreposta    1 199     507|19-06-2017
+85063115|Sidónio Jesabel Póvoas|Castelo Branco    SertÃ£    Castelo    1 163     2 462|19-06-2017
+63282797|Graça Lina Rua Bastos|Viseu    Viseu    Ranhados    3 996     658|19-06-2017
+52831947|Hilário Fiães|Vila Real    Sta. Marta de PenaguiÃ£o    AlvaÃ§Ãµes do Corgo    575    422|19-06-2017
+11890389|Adauto Alcaide|Porto    Vila Nova de Gaia    Lever    3 033     688|19-06-2017
+92351257|Carlota Pederneiras|Viana do castelo    Arcos de Valdevez    Portela    307    306|19-06-2017
+49522714|Anaísa Sheila Benevides|Guarda    Pinhel    Freixedas    1 066     3 694|19-06-2017
+76289934|Noemi Cíntia Sabrosa|Ã‰vora    Vila ViÃ§osa    Vila ViÃ§osa (S. Bartolomeu)    1 078     21|19-06-2017
+07020125|Valquíria Daniela Castilhos Quintais|Porto    Paredes    Beire    2 256     338|19-06-2017
+68343550|Vinicios Berenice Mendoça|Leiria    AnsiÃ£o    Torre de Vale de Todos    456    1 174 |19-06-2017
+96579000|Marco Glena Robalo|BraganÃ§a    BraganÃ§a    Pinela    244    2 184|19-06-2017
+66278280|Dirce Cartaxo|Porto    Porto    Bonfim    28 578     305|19-06-2017
+57874953|Isilda Martinho Sacadura Quesado|Castelo Branco    PenamacÃ´r    Bemposta    184    1 000|19-06-2017
+21923116|Agnes Lobo|Ã‰vora    Portel    Monte do Trigo    1 245     10 701|19-06-2017
+81129556|Dinarte Antero Naves Regodeiro|Beja    Castro Verde    S. Marcos da Ataboeira    373    10 339 |19-06-2017
+92175417|Cássio Ingrid Quintana Pires|Lisboa    Torres Vedras    Silveira    6 496     2 476|19-06-2017
+19651842|Alícia Villar|BraganÃ§a    Macedo de Cavaleiros    GrijÃ³    471    817|19-06-2017
+24989208|Jacinta Capitolino Furquim|Coimbra    GÃ³is    Vila Nova do Ceira    997    2 093 |19-06-2017
+54269371|Sabina Lia Grilo Bento|Santarem    Santarem    SantarÃ©m (S. Nicolau)    9 036     1 484|19-06-2017
+80041223|Saúl Altina Saraiva Souza|Leiria    Leiria    Carreira    1 337     539|19-06-2017
+47142579|Adérito Norberto Meirelles Neiva|Leiria    FigueirÃ³ dos Vinhos    Arega    1 154     2 849|19-06-2017
+47407294|Lurdes Andreia Pacheco|Braga    Vila Nova de FamalicÃ£o    Abade de Vermoim    351    33|19-06-2017
+10807131|Joana Anacleto Pederneiras Quintal|Vila Real    MesÃ£o Frio    Cidadelhe    207    255|19-06-2017
+08378422|Berta Caldas|Coimbra    Coimbra    BotÃ£o    1 683     1 652|19-06-2017
+92026170|Faustino Brenda Águeda Cambezes|Aveiro    Anadia    Moita    2 733     3 399|19-06-2017
+82489387|Ezequias Cesário Anhaia Canário|Castelo Branco    CovilhÃ£    Barco    576    1 518|19-06-2017
+27515488|Virgínia Carminda Muniz Naves|Porto    Marco de Canaveses    Constance    1 639     355|19-06-2017
+81049847|Betânia Edna Maia|Braga    Esposende    ApÃºlia    4 323     1 051|19-06-2017
+45136211|Lúcia Duarte Freiria|Viana do castelo    ValenÃ§a    Friestas    546    432|19-06-2017
+25371307|Cláudio Veleda|Braga    Amares    Bouro (Sta. Maria)    909    680|19-06-2017
+77140074|Eduardo Rúbia Carmo|Santarem    Santarem    S. Vicente do PaÃºl    2 085     5 033|19-06-2017
+32150855|Amador Cassandra Calçada Diniz|Lisboa    Lisboa    S. Mamede    6 004     60|19-06-2017
+37584918|Elda André Betancour|Braga    Vila Verde    Valbom (S. Martinho)    253    266|19-06-2017
+13757186|Olga Valdemar Boaventura Noite|AÃ§ores    Horta    Praia do Norte    259    1 400|19-06-2017
+03420768|Branca Dâmaso|Porto    PaÃ§os de Ferreira    Penamaior    3 619     791|19-06-2017
+09109383|Walter Rubina Keil do Amaral|Viseu    Tondela    Santiago de Besteiros    1 473     1 444|19-06-2017
+55066787|Amável Lisandra Graça|Viseu    Castro Daire    Almofala    280    1 875|19-06-2017
+95109064|Sebastião Hernâni Homem|Vila Real    Montalegre    Cabril    640    7 621|19-06-2017
+55979616|Cidália Karen Quadros|Viana do castelo    ValenÃ§a    ValenÃ§a    3 483     251|19-06-2017
+81122143|Eugénio Bianca Carqueijeiro|Santarem    Coruche    Santana do Mato    1 258     10 227|19-06-2017
+71070208|José Armando Botelho|Coimbra    Condeixa-a-Nova    Condeixa-a-Velha    3 318     2 264|19-06-2017
+68835742|Isabel Marcos Albuquerque Osório|BraganÃ§a    Mirandela    Avantos    123    1 289|19-06-2017
+85373199|Cândido Mariete Caldeira|Faro    Tavira    Cabanas de Tavira    1 070     631|19-06-2017
+49642930|Anastácia Borba|Braga    Celorico de Basto    Basto (S. Clemente)    1 587     1 543|19-06-2017
+47290809|Bernardete Cinara Rebotim Açores|BraganÃ§a    Mirandela    Vale de Salgueiro    422    1 520|19-06-2017
+41582452|Berta Luana Filipe Mayor|Guarda    Trancoso    Moreira de Rei    673    3 440|19-06-2017
+53444688|Ester Trigueiro|Aveiro    Sever do Vouga    Pessegueiro do Vouga    1 906     1 601|19-06-2017
+08092156|Noélia Valquíria Quinzeiro|Guarda    Vila Nova de Foz CÃ´a    MÃ³s    241    1 274|19-06-2017
+03491540|Frederica Raminhos|Ã‰vora    Mora    CabeÃ§Ã£o    1 259     4 744|19-06-2017
+18688797|Linda Samanta Távora Mota|Braga    Vieira do Minho AnissÃ³    263    493|19-06-2017
+58502472|Luca Dinora Alcântara Aveiro|Porto    Amarante    Rebordelo    398    1 744|19-06-2017
+91426866|Virgolina Violante Montenegro Duarte|Leiria    Porto de MÃ³s    Juncal    3 241     2 667|19-06-2017
+77675033|Gertrudes Vanderley Pessanha|Faro    LoulÃ©    TÃ´r    887    1 485 |19-06-2017
+96967326|Keila Adauto Malheiros Aquino|Braga    GuimarÃ£es    Tabuadelo    1 723     341|19-06-2017
+36064076|David Cátia Coronel Quirino|Castelo Branco    Oleiros    Oleiros    2 470     11 939|19-06-2017
+18092861|Donato Bianca Malheiros Alancastro|Lisboa    Loures    SacavÃ©m    17 659     415|19-06-2017
+75548754|Armanda Pessoa|Viana do castelo    MonÃ§Ã£o    CeivÃ£es    574    346|19-06-2017
+20336646|Antenor Salomé Barroso|Beja    Aljustrel    Rio de Moinhos    864    3 674|19-06-2017
+53770848|Dinora Henriqueta Cambezes|Leiria    Pombal    Albergaria dos Doze    1 745     2 284|19-06-2017
+49631039|Mariana Landim|Aveiro    Arouca    VÃ¡rzea    559    174|19-06-2017
+90390051|Ricardo Lourdes Ilha|Braga    Barcelos    Barcelos    5 213     120|19-06-2017
+83595402|Ermínio Martina Nogueira Macena|Braga    PÃ³voa de Lanhoso (N. S. do Amparo)    PÃ³voa de Lanhoso (N. S. do Amparo)    4 602     562|19-06-2017
+37644421|Valdir Gameiro|Ã‰vora    Alandroal    Alandroal (N. S. da ConceiÃ§Ã£o)    1 938     15 660|19-06-2017
+77607584|Eleutério Silvestre|Braga    GuimarÃ£es    Barco    1 430     295|19-06-2017
+21910966|Ezequiel Vilma Carlos|Castelo Branco    CovilhÃ£    Teixoso    4 415     3 431|19-06-2017
+74440654|Virgolino Abreu|AÃ§ores    Ribeira Grande    S. BrÃ¡s    635    949|19-06-2017
+74682069|Eurico Joana Orriça Bernardes|Santarem    MaÃ§Ã£o    Ortiga    627    1 595|19-06-2017
+97064293|Urbano Mantas|Braga    PÃ³voa de Lanhoso (N. S. do Amparo)    Sobradelo da Goma    1 105     1 023|19-06-2017
+92041398|Celestina Florival Carromeu|Lisboa    Vila Franca de Xira    Cachoeiras    769    984|19-06-2017
+01550676|Naum Virgolina Moreira Santana|AÃ§ores    Ponta Delgada    Capelas    3 759     1 684|19-06-2017
+13155467|Carminda Rosália Góis|Castelo Branco    Castelo Branco    Lardosa    1 044     4 446|19-06-2017
+47684586|Magali Duarte Rua|Vila Real    Boticas    Covas do Barroso    348    2 967|19-06-2017
+63380869|Petra Osvaldo Poças Aranha|Viana do castelo    Arcos de Valdevez    Sistelo    341    2 683|19-06-2017
+71695724|Natanael Naves|BraganÃ§a    Macedo de Cavaleiros    Sta. Combinha    72    490|19-06-2017
+09202245|Michael Fagundes|AÃ§ores    Angra do HeroÃ­smo    Doze Ribeiras    559    1 037|19-06-2017
+58678901|Edson Arruda|Lisboa    Mafra    Venda do Pinheiro    4 660     1 443|19-06-2017
+66466092|Apolinário Pinhal|Viseu    S. JoÃ£o da Pesqueira    Pereiros    116    809|19-06-2017
+51027893|Lisandra Fonseca|Aveiro    Sever do Vouga    Dornelas    662    768|19-06-2017
+91708917|Renato Liberato|Santarem    Coruche    Coruche    9 221     24 244|19-06-2017
+94570741|Gertrudes Canedo|Leiria    AnsiÃ£o    Avelar    2 089     848|19-06-2017
+15729018|Gilberta Portela|Castelo Branco    FundÃ£o    Mata da Rainha    214    2 036|19-06-2017
+19522160|Leandro Mónica Covilhã|Guarda    Fornos de Algodres    CortiÃ§Ã´    180    511|19-06-2017
+27765842|Lisandra Telma Abrantes|Aveiro    Sta. Maria da Feira    PaÃ§os de BrandÃ£o    4 590     371|19-06-2017
+77963818|Telmo Dinis|AÃ§ores    Nordeste    Achadinha    561    1 386|19-06-2017
+51680923|Altina Franca|Leiria    Porto de MÃ³s    Serro Ventoso    1 114     3 416 |19-06-2017
+89535228|Ermínio Jussara Serralheiro|Vila Real    MurÃ§a    Jou    794    3 720|19-06-2017
+53659357|Emília Estrada|Porto    Lousada    Macieira    1 421     142|19-06-2017
+65700449|Plácido Altino Mesquita Sousa|Vila Real    ValpaÃ§os    Sonim    317    1 103|19-06-2017
+85484355|Rafael Macedo|Braga    PÃ³voa de Lanhoso (N. S. do Amparo)    Frades    318    413|19-06-2017
+59433831|Anastácio Abranches|Castelo Branco    CovilhÃ£    Unhais da Serra    1 385     3 211|19-06-2017
+57433191|Valdir Luca Varella Pimentel|Viana do castelo    Vila Nova de Cerveira    Sopo    576    1 391|19-06-2017
+06093249|Bebiana Argeu Ouro|Castelo Branco    Oleiros    Mosteiro    422    1 717|19-06-2017
+68410351|Filipa Cartaxo|Aveiro    Aveiro    S. Bernardo    4 079     398|19-06-2017
+17253827|Mira Fraga|Ã‰vora    Borba    Borba (S. Bartolomeu)    932    14|19-06-2017
+90036384|Ademir Juvelina Chagas|Vila Real    Sabrosa    Gouvinhas    359    1 447|19-06-2017
+67515018|Agostinho Fabiana Motta|Viseu    Carregal do Sal    Sobral    292    511|19-06-2017
+78139638|Levi Lameira|Braga    GuimarÃ£es    AbaÃ§Ã£o (S. TomÃ©)    2 300     467|19-06-2017
+92585695|Ariana Vanda Álvaro Travassos|Braga    GuimarÃ£es    Donim    989    337|19-06-2017
+65498804|Ângela Donaldo Palmeira|Vila Real    Vila Real    Vila Real (NÂª Sra. da ConceiÃ§Ã£o)    7 846     346|19-06-2017
+80792097|Carina Óscar Vilarim Moura|BraganÃ§a    BraganÃ§a    BaÃ§al    470    2 476|19-06-2017
+02607520|Adosinda Abel Pena Valim|Viana do castelo    Paredes de Coura    Paredes de Coura    1 495     309|19-06-2017
+78955285|Berta Serafim Ponte Caniça|Aveiro    Albergaria-a-Velha    Branca    5 500     3 022|19-06-2017
+20001157|Hebe Chagas|Viana do castelo    Caminha    Gondar    241    535|19-06-2017
+11034549|Deonilde Florêncio Mansilha|Vila Real    Ribeira de Pena    Cerva    2 607     4 605|19-06-2017
+17933138|Eunice Quitéria Villaça|Porto    BaiÃ£o    Sta. Marinha do ZÃªzere    2 852     1 064|19-06-2017
+61802125|Nero Lóio|Braga    Vizela    Ã�nfias    1 765     186|19-06-2017
+24949908|Vitorino Goes|Leiria    AnsiÃ£o    Pousaflores    1 201     2 636|19-06-2017
+51058317|Adelmiro Cangueiro|Braga    Vila Verde    AtÃ£es    616    298|19-06-2017
+13522946|Lília Silvestre Álvares|Viseu    Penedono    Penela da Beira    410    1 596|19-06-2017
+47643517|Agostinha Robalinho|BraganÃ§a    Macedo de Cavaleiros    Amendoeira    490    1 554|19-06-2017
+68736213|Yasmin Viriato Mourinho|Vila Real    Sabrosa    Passos    664    1 717|19-06-2017
+65972082|Íris Gilda Gentil Valim|Porto    Felgueiras    Vila Cova da Lixa    3 150     460|19-06-2017
+33664368|Miranda Péricles Noguera Carvalhoso|Braga    Vila Verde    Prado (S. Miguel)    727    535|19-06-2017
+47940407|Lúcia Ríos|Braga    Amares    Rendufe    1 126     300|19-06-2017
+94348020|Hilton Quixote Figueira|Coimbra    Montemor-o-Velho    Montemor-o-Velho    2 853     2 482|19-06-2017
+54533017|Ari Mexia|BraganÃ§a    Macedo de Cavaleiros    Sta. Combinha    72    490|19-06-2017
+51130184|Verónica Edelmiro Vidal|Aveiro    Anadia    Paredes do Bairro    1 092     673|19-06-2017
+32059591|Geraldo Kevin Júdice|Leiria    Leiria    Bajouca    2 015     1 321|19-06-2017
+60272553|Rosário Atanásio Dorneles|Lisboa    Azambuja    Alcoentre    3 535     4 700|19-06-2017
+40332486|Adelino Clarissa Lameira|Coimbra    Montemor-o-Velho    Ereira    714    726|19-06-2017
+44325376|Joviano Elaine Jesus Mattozo|Guarda    Sabugal    Nave    273    1 978|19-06-2017
+19399173|Ondina Sobral|Guarda    Almeida    Mido    59    700|19-06-2017
+35041365|Nicolau Dulcineia Saraiva Madureira|Guarda    Seia    Sandomil    1 108     1 428|19-06-2017
+38038625|Cornélia Hermínia Carvalhal|Lisboa    Loures    Prior Velho    6 683     161|19-06-2017
+09923095|Fábio Lena Quintanilha|Braga    Barcelos    Areias    1 092     276|19-06-2017
+71179554|Félix Lancelote Cerveira Canto|Viana do castelo    Ponte da Barca    Germil    70    1 373|19-06-2017
+46295941|Hipólito Florival Paes |Braga    Vila Verde    Valbom (S. Pedro)    294    155|19-06-2017
+66776056|Aldino Rogério Lins Lameiras|BraganÃ§a    Mogadouro    Peredo da Bemposta    258    1 805|19-06-2017
+05402286|Ricarda Ferraço|Viseu    Sernancelhe    Adorigo    420    1 055|19-06-2017
+87939819|Douglas Carreiro|Vila Real    Montalegre    Meixide    127    1 217|19-06-2017
+18450711|Alcina Rijo|Lisboa    Cadaval    Lamas    3 156     3 747|19-06-2017
+28300517|Maria Maristela Quintella Semedo|BraganÃ§a    Carrazeda de AnsiÃ£es    Pinhal do Norte    315    1 696|19-06-2017
+22724882|Benedita Victor Veríssimo|SetÃºbal    Seixal    FernÃ£o Ferro    10 753     2 526|19-06-2017
+35813420|Úrsula Renato Moreira Júdice|Lisboa    LourinhÃ£    Atalaia    1 555     765|19-06-2017
+26542979|Jocelina Daniela Gabeira|Ã‰vora    Estremoz    Estremoz (Santo AndrÃ©)    2 978     77|19-06-2017
+03952501|Vanderlei Nélida Macena Marroquim|Porto    Santo Tirso    S. Salvador do Campo    1 134     156|19-06-2017
+15444399|Débora Hélia Mena|Aveiro    Sta. Maria da Feira    Louredo    1 459     867|19-06-2017
+82028849|Dácio Venceslau Quintanilla Osorio|Faro    Castro Marim    GiÃµes    307    6 595|19-06-2017
+56168032|Eusébio Flaviano Lira Antas|Leiria    Batalha    S. Mamede    3 513     4 038|19-06-2017
+75852358|Isolda Wilker Thomé Penha|Viseu    Resende    MiomÃ£es    391    277|19-06-2017
+86651710|Silva Trindade|Leiria    AnsiÃ£o    Lagarteira    566    776|19-06-2017
+43592306|Aldina Cedro|BraganÃ§a    BraganÃ§a    Rebordainhos    188    1 253|19-06-2017
+95620101|Fernando Hirondina Lage Bastos|Braga    Vila Nova de FamalicÃ£o    Gondifelos    2 183     853|19-06-2017
+71510702|Lis Natália Galante|Aveiro    Albergaria-a-Velha    Albergaria-a-Velha    7 421     2 677|19-06-2017
+60657710|Olívio Violeta Cunha|Braga    Barcelos    Tregosa    695    505|19-06-2017
+52790575|Edson Nazaré Valgueiro|Madeira    S. Vicente    Ponta Delgada    1 325     880|19-06-2017
+95250602|Aline Natalina Sarmento Caminha|Braga    Fafe    EstorÃ£os    1 588     797|19-06-2017
+47853644|Noémia Aldino Zagalo Pinho|Braga    Vila Nova de FamalicÃ£o    Mouquim    1 403     413|19-06-2017
+51861422|Lisandra Milene Amarante Mortágua|Guarda    Pinhel    Souro Pires    594    1 619|19-06-2017
+39632850|Lúcia Carvalheiro|Coimbra    Montemor-o-Velho    Santo VarÃ£o    1 502     1 187|19-06-2017
+27576275|Urbino Dinora Chagas Freitas|BraganÃ§a    Vila Flor    Candoso    207    708|19-06-2017
+71184190|Egídio Arantes|Madeira    Calheta (Madeira)    Ponta do Pargo    1 145     2 200|19-06-2017
+16744315|Venceslau Fragoso|Castelo Branco    FundÃ£o    Castelejo    824    2 948|19-06-2017
+04726685|Nicolas Serafim Neres Leão|Santarem    Tomar    Paialvo    2 850     2 226|19-06-2017
+89048980|Mira Raul Leça Vergueiro|Leiria    Batalha    Reguengo do Fetal    2 358     2 904|19-06-2017
+32784275|Rafaela Énio Duarte Neto|Aveiro    Sta. Maria da Feira    Vale    2 138     901|19-06-2017
+01912006|Luis Vilhena|Viseu    Penalva do Castelo    Castelo de Penalva    1 070     2 735|19-06-2017
+97339847|Laura Gilda Macieira|Aveiro    Ã�lhavo    Ã�lhavo (S. Salvador)    16 760     4 168 |19-06-2017
+34585242|Violante Vanessa Nóbrega|Guarda    Seia    Loriga    1 270     3 652|19-06-2017
+42708708|Cremilde Bairros|AÃ§ores    Calheta (AÃ§ores)    Santo AntÃ£o    921    3 341|19-06-2017
+36301628|Emídio Priscilo Lameira|BraganÃ§a    Mirandela    Vale de Telhas    364    1 335|19-06-2017
+48315311|Nádia Manso|Porto    Penafiel    OldrÃµes    2 028     533|19-06-2017
+15827072|Donaldo Gervásio Fernandes|Braga    GuimarÃ£es    GominhÃ£es    507    206|19-06-2017
+28437504|Wilson Hercília Bulhões Vilarinho|Braga    Esposende    FÃ£o    2 842     604|19-06-2017
+50897968|Ofélia Artur Marreiro|Viseu    Tondela    FerreirÃ³s do DÃ£o    410    835|19-06-2017
+30350711|Edite Anastácio Quintela|Viana do castelo    Caminha    Seixas    1 578     440|19-06-2017
+69621568|Obede Rafael Felipe Cidreira|Braga    Fafe    Revelhe    820    492|19-06-2017
+47269633|Glena Jacob Ramires Espírito Santo|Porto    Vila do Conde    Mindelo    3 402     544|19-06-2017
+98577878|Altina Antenor Ribeiro Andrade|Faro    Faro    Montenegro    5 336     2 301|19-06-2017
+31132284|Ataliba Alexandrina Souto Maior Barra|Viana do castelo    Paredes de Coura    Cossourado    338    553|19-06-2017
+42779229|Tabita Valente|Viana do castelo    Ponte de Lima    Sta. Cruz do Lima    532    251|19-06-2017
+20296210|Aida Evaldo Temes Ramalho|Lisboa    Lisboa    Santo EstÃªvÃ£o    2 047     18|19-06-2017
+55736004|Adalgisa Helena Vilanova Amorim|Viseu    S. Pedro do Sul    Sul    1 409     4 748|19-06-2017
+53665500|Avelina Genoveva Matta|Viana do castelo    MonÃ§Ã£o    Valadares    218    186|19-06-2017
+86592032|Venâncio Pessanha|Braga    Fafe    Passos    1 113     382|19-06-2017
+86369787|Liana Sanches|Braga    Fafe    Armil    820    518|19-06-2017
+32550660|Rui Octávio Palma|Ã‰vora    Redondo    Montoito    1 273     6 181|19-06-2017
+15287890|Virgolino Jeremias Noronha|Porto    Lousada    Lustosa    4 437     1 038|19-06-2017
+19916579|Amaro Argeu Pallos Mayor|Leiria    Pombal    Mata Mourisca    1 942     2 478|19-06-2017
+62324021|Mónica Nadine Letras Galvão|Coimbra    Condeixa-a-Nova    Condeixa-a-Velha    3 318     2 264|19-06-2017
+62816898|Neiva Benjamim Carvalheiro|Braga    GuimarÃ£es    Brito    4 605     614|19-06-2017
+88590845|Célia Tâmara Jácome Domingos|Santarem    OurÃ©m    Atouguia    2 460     1 955|19-06-2017
+28272570|Adelmiro Fogaça|Castelo Branco    CovilhÃ£    Canhoso    1 735     686|19-06-2017
+62994370|Alberto Delfina Infante Noronha|Guarda    Sabugal    Sabugal    2 174     3 157|19-06-2017
+33100955|Duarte Martins|Viseu    Moimenta da Beira    Aldeia de Nacomba    149    680|19-06-2017
+97100209|Liana Fragoso|Braga    GuimarÃ£es    Candoso (Santiago)    2 004     226|19-06-2017
+32832113|Érica Edelmiro Quintela Noite|Viana do castelo    Ponte de Lima    Gondufe    435    608|19-06-2017
+77066454|Delfina Nazaré Felgueiras Lage|Guarda    Celorico da Beira    Celorico (S. Pedro)    1 387     1 380|19-06-2017
+84701425|Pelágio Estrela Taveira|Aveiro    Ovar    VÃ¡lega    6 742     2 664 |19-06-2017
+45563545|Ivo Dora Arruda Castello|Leiria    Porto de MÃ³s    Alvados    558    2 103|19-06-2017
+04794244|Bernarda Galante|Viana do castelo    Viana do Castelo    Lanheses    1 740     1 004|19-06-2017
+17056304|Heidi Ermelinda Castilhos Negreiros|Porto    Amarante    Amarante (S. GonÃ§alo)    6 503     475|19-06-2017
+95939275|Berenice Rudolfo Cangueiro Duarte|Vila Real    Peso da RÃ©gua    Poiares    918    1 180|19-06-2017
+87802281|Simone Nair Aranha|Leiria    AlvaiÃ¡zere    Rego da Murta    948    1 663|19-06-2017
+38526357|Elen Fabíola Terra|Leiria    AlvaiÃ¡zere    AlvaiÃ¡zere    1 818     3 232|19-06-2017
+96382364|Alexandrina Salvador Mafra Espargosa|Viana do castelo    ValenÃ§a    Sanfins    154    850|19-06-2017
+96353058|Alva Cosme Damascena|Faro    PortimÃ£o    PortimÃ£o    36 243     7 569 |19-06-2017
+87127830|Gonçalo Tomás Galante Seabra|SetÃºbal    Almada    FeijÃ³    16 072     420|19-06-2017
+74092953|Marília Cinira Angelim Cordeiro|Coimbra    Coimbra    Eiras    12 053     902|19-06-2017
+93457579|Abigail Silvéria Felgueiras Paes|Viana do castelo    Arcos de Valdevez    Padreiro (Salvador)    302    296|19-06-2017
+84077847|Elisa Getúlio Beltrão Cascais|Aveiro    Vagos    Sta. Catarina    1 073     684|19-06-2017
+94028930|Liliana Mara Graça|Lisboa    Azambuja    MaÃ§ussa    506    739|19-06-2017
+34601685|Alan Martim Graça|AÃ§ores    Ribeira Grande    Maia    1 901     2 197|19-06-2017
+46124664|Ivete Custódio Zagallo Meirelles|Braga    PÃ³voa de Lanhoso (N. S. do Amparo)    Travassos    777    359|19-06-2017
+11154714|Leonardo Bogado|Ã‰vora    Vila ViÃ§osa    Vila ViÃ§osa (ConceiÃ§Ã£o)    4 364     3 279|19-06-2017
+03197553|Cremilde Álvaro Mondragão Beltrão|AÃ§ores    Sta. Cruz da Graciosa    Guadalupe    1 306     2 055|19-06-2017
+57557738|Rosa Rosália Sabrosa|Leiria    AlvaiÃ¡zere    Almoster    791    2 558|19-06-2017
+72446186|Tiago Graça|Ã‰vora    Vila ViÃ§osa    Vila ViÃ§osa (S. Bartolomeu)    1 078     21|19-06-2017
+47230459|Urbano Estefânia Morão|Vila Real    Montalegre    Vilar de Perdizes (S.Miguel)    532    2 556 |19-06-2017
+60220124|Obede Evelise Rufino Rivas|Castelo Branco    CovilhÃ£    Sobral de S. Miguel    686    2 237|19-06-2017
+71400687|Camilo Malho|Leiria    Batalha    Reguengo do Fetal    2 358     2 904|19-06-2017
+43746970|Gabriela Elvira Mantas|Braga    Amares    Carrazedo    759    309|19-06-2017
+72212321|Francisco Elsa Igrejas|Porto    Gondomar    Barrosas (Santo EstevÃ£o)    933    470|19-06-2017
+43817490|Alda Passarinho|Viseu    Viseu    Viseu (CoraÃ§Ã£o de Jesus)    8 716     227|19-06-2017
+58489774|Anacleto Florêncio Esparteiro Queirós|Santarem    Ferreira do ZÃªzere    Pias    534    987|19-06-2017
+41638490|Nilton Sheila Salgado Medeiros|Porto    Gondomar    CaÃ­de de Rei    2 636     666|19-06-2017
+82854902|Nestor Marco Lagoa Proença|Porto    Felgueiras    SantÃ£o    870    242|19-06-2017
+56130559|Nilda Clemente Bulhões|Braga    Vila Nova de FamalicÃ£o    Esmeriz    1 905     375|19-06-2017
+18257483|Jesabel Lemes|Vila Real    AlijÃ³    Ribalonga    291    915|19-06-2017
+46097146|Evelise Boeira|Castelo Branco    Castelo Branco    PÃ³voa de Rio de Moinhos    685    2 549|19-06-2017
+79695259|Nelma Benito Cortês Pinto|Guarda    Gouveia    Rio Torto    527    939|19-06-2017
+03878270|Maurício Alcântara|Braga    Amares    Bouro (Sta. Marta)    565    961|19-06-2017
+04909519|Duílha Atanásio Mainha|Leiria    Caldas da Rainha    Alvorninha    3 123     3 762|19-06-2017
+75947645|Sara Glena Quezado Grilo|Faro    Monchique    Alferce    512    9 531|19-06-2017
+05485229|Érica Vicente Casalinho|AÃ§ores    Angra do HeroÃ­smo    Terra ChÃ£    2 783     1 048|19-06-2017
+12924095|Cleide Samanta Neres|Beja    Odemira    Pereiras-Gare    373    6 468|19-06-2017
+01078884|Heloísa Bugalho|Leiria    Porto de MÃ³s    Juncal    3 241     2 667|19-06-2017
+11620269|Sandra Jussara Eiró Coelho|Braga    Barcelos    LijÃ³    2 191     543|19-06-2017
+88934156|Amanda Bruna Capistrano Mondragão|BraganÃ§a    Vila Flor    Benlhevai    214    1 234|19-06-2017
+27327807|Ângelo Medina|AÃ§ores    Ponta Delgada    Arrifes    6 941     2 527|19-06-2017
+57686776|Basílio Taborda|Leiria    Ã“bidos    Sobral da Lagoa    420    488|19-06-2017
+61746130|Ema Nazário Pontes|Guarda    Gouveia    Moimenta da Serra    707    575|19-06-2017
+31125783|Adelina Erasmo Arantes Mederos|Porto    Penafiel    CastelÃµes    1 413     394|19-06-2017
+19470115|Magda Antas|Viana do castelo    ValenÃ§a    S. Pedro da Torre    1 232     429|19-06-2017
+48267441|Edmundo Mateus Pederneiras|Viana do castelo    Vila Nova de Cerveira    Loivo    859    526|19-06-2017
+00774550|Argeu Adérito Infante Pallos|Coimbra    Montemor-o-Velho    Arazede    5 956     5 272|19-06-2017
+92334036|Dana Débora Fontes Marques|Viseu    Penalva do Castelo    Germil    445    541|19-06-2017
+87551502|Evangelina Ivan Caetano|Lisboa    Azambuja    Azambuja    6 914     8 345|19-06-2017
+94079746|Adorinda Cantanhede|Viseu    S. Pedro do Sul    Figueiredo de Alva    1 026     1 556|19-06-2017
+55937231|Juliana Emílio Távora|Coimbra    Oliveira do Hospital    Aldeia das Dez    627    1 812|19-06-2017
+36874357|Jocosa Albina Valladares Brião|Viana do castelo    Arcos de Valdevez    Couto    641    620|19-06-2017
+13801263|Ediberto Esaú Resende Vilas Boas|Vila Real    Montalegre    DonÃµes    72    939|19-06-2017
+67893967|Jandira Eva Fontes Brum|Vila Real    AlijÃ³    Casal de Loivos    198    355|19-06-2017
+19619117|Maximiliano Tasha Carrasqueira|Lisboa    Cascais    Alcabideche    31 801     3 976|19-06-2017
+30143947|Eugénia Mariana Lousã|Viseu    S. JoÃ£o da Pesqueira    Castanheiro do Sul    474    2 138|19-06-2017
+24794565|Caio Francisca Reino Bensaúde|BraganÃ§a    BraganÃ§a    Castro de AvelÃ£s    483    1 387|19-06-2017
+19117566|Helena Delfino Gorjão Bencatel|BraganÃ§a    Mirandela    Aguieiras    375    1 468|19-06-2017
+13902598|Guida Adriano Canto|Aveiro    Sta. Maria da Feira    Rio MeÃ£o    4 688     647|19-06-2017
+40654204|Mira Samanta Mortágua|Guarda    Pinhel    Pomares    184    1 389|19-06-2017
+97052338|Carolina Virgolino Serralheiro|Porto    PÃ³voa de Varzim    Beiriz    3 229     431|19-06-2017
+21221768|Nara Licínio Feitosa Menezes|Viana do castelo    MelgaÃ§o    Vila    1 274     176|19-06-2017
+69670527|Leandra Valente|Viana do castelo    Vila Nova de Cerveira    Mentrestido    271    487|19-06-2017
+64643947|Fernanda Heitor Infante Infante|Viseu    Penalva do Castelo    Vila Cova do Covelo    317    887|19-06-2017
+02048922|Dejanira Cardim|Aveiro    Sever do Vouga    Dornelas    662    768|19-06-2017
+89131690|Herodes França|Braga    Vieira do Minho RuivÃ£es    931    3 126|19-06-2017
+53214285|Júlio Hebe Mora Medina|Braga    Fafe    QuinchÃ£es    2 344     1 045|19-06-2017
+83715584|Pablo Ana Vasques Dorneles|Viana do castelo    Ponte de Lima    Fornelos    1 535     1 050|19-06-2017
+91670077|Theo Hipólito Malho Quintela|SetÃºbal    AlcÃ¡cer do Sal    AlcÃ¡cer do Sal (Santiago)    4 850     28 298|19-06-2017
+25360690|Valdo Mónica Fidalgo Lameiras|Viseu    Sernancelhe    Penso    244    771|19-06-2017
+55573210|Keila Brígida Picão Vidal|Braga    Braga    Crespos    991    419|19-06-2017
+28147392|Óscar Freire|Santarem    Santarem    Sta. Iria da Ribeira de SantarÃ©m    1 021     1 453|19-06-2017
+00081106|Emília Cristela Góis|Aveiro    Arouca    Covelo de PaivÃ³    169    2 748|19-06-2017
+38324687|Levina Sequeira|Vila Real    MurÃ§a    Jou    794    3 720|19-06-2017
+43396853|Jessica Idalécio Camilo|BraganÃ§a    Vimioso    Angueira    162    2 201|19-06-2017
+69920621|César Heidi Eiró|Vila Real    Vila Pouca de Aguiar    Sta. Marta da Montanha    195    1 312|19-06-2017
+38464868|Leónidas Vilas-Boas|AÃ§ores    Vila Franca do Campo    Vila Franca do Campo (S. Miguel)    4 047     1 947|19-06-2017
+06230635|Samara Gaspar Valim|Aveiro    Oliveira de Azemeis    Madail    884    260|19-06-2017
+30927722|Samara Montenegro|Braga    Braga    CeleirÃ³s    2 998     236|19-06-2017
+12450159|Maurício Castelhano|Guarda    Sabugal    Souto    1 419     3 038|19-06-2017
+12594880|Virgínia Igor Aveiro Pires|Vila Real    Peso da RÃ©gua    Sedielos    1 307     1 283|19-06-2017
+48124433|Cremilda Benedito Raposo Candal|BraganÃ§a    Mirandela    Pereira    245    750|19-06-2017
+76020437|Nadina Pilar Pessanha Galante|Braga    Vila Nova de FamalicÃ£o    Nine    2 735     396|19-06-2017
+53935716|Theo Peixoto|Vila Real    Montalegre    Pondras    193    1 112|19-06-2017
+94606377|Daniel Alcione Meireles Castelo|Braga    Braga    Semelhe    847    348|19-06-2017
+37869958|Cíntia Quezado|Lisboa    Loures    Lousa    3 420     1 650|19-06-2017
+74782236|Rafael Eustácia Caeiro|Santarem    Abrantes    Martinchel    713    1 710|19-06-2017
+12729855|Delfim Gerson Porto Barroqueiro|Santarem    Salvaterra de Magos    Foros de Salvaterra    4 017     3 580|19-06-2017
+86952939|Samanta Vilaça|Viseu    S. Pedro do Sul    Figueiredo de Alva    1 026     1 556|19-06-2017
+07633624|Daniel Telmo Ferraço|Faro    Albufeira    Paderne    3 504     5 849 |19-06-2017
+80707269|Sandra Norberto Tristão Outeiro|Santarem    Santarem    Sta. Iria da Ribeira de SantarÃ©m    1 021     1 453|19-06-2017
+38841091|Bruno Caio Leiria|Viana do castelo    Viana do Castelo    Geraz do Lima (Sta Maria)    846    544|19-06-2017
+22348952|Edmar André Lara|Leiria    Caldas da Rainha    Serra do Bouro    720    1 798|19-06-2017
+53417766|Patrício Bráulio Vasconcellos|Coimbra    GÃ³is    Alvares    1 007     9 866|19-06-2017
+42867675|Isilda Lisandra Silva Saloio|BraganÃ§a    Moncorvo    MaÃ§ores    223    1 601|19-06-2017
+41496041|Tito Vilmar Rodrigues|BraganÃ§a    AlfÃ¢ndega da FÃ©    Pombal    127    609|19-06-2017
+94872181|Sónia Ivo Lages Carneiro|Porto    Marco de Canaveses    Tuias    3 218     578|19-06-2017
+08380786|Fausto Jesabel Monteiro Lóio|Guarda    Pinhel    Sta. EufÃ©mia    194    1 185|19-06-2017
+01650802|Olavo Gago|Braga    Braga    Fradelos    678    146|19-06-2017
+61340436|Quirino Clementino|Faro    Lagoa (Algarve)    Lagoa    6 059     2 567|19-06-2017
+94629813|Amado Norões|Viseu    S. JoÃ£o da Pesqueira    Vilarouco    427    2 685 |19-06-2017
+60173570|Laura António Mora|Santarem    Rio Maior    Azambujeira    528    888|19-06-2017
+84476147|Isaías Portela|Braga    Barcelos    Gueral    417    205|19-06-2017
+59671047|Horácio Silvana Ponte|Castelo Branco    Castelo Branco    Alcains    4 928     3 709|19-06-2017
+10020830|Ermínio Jacy Rebimbas Paula|Vila Real    Sta. Marta de PenaguiÃ£o    Lobrigos (S. Miguel)    1 327     442|19-06-2017
+25024832|Benjamim Aldeia|Ã‰vora    Ã‰vora    N. S. de Machede    1 180     18 534|19-06-2017
+24680116|Teófilo Genoveva Caneira Abasto|Faro    LoulÃ©    Salir    3 023     18 529|19-06-2017
+68761334|Gaspar Jeremias Milheiriço|Viana do castelo    Arcos de Valdevez    Vila Fonche    770    310|19-06-2017
+14442725|Mavilde Leôncio Ribas|Viana do castelo    Ponte de Lima    RefÃ³ios do Lima    2 282     1 640|19-06-2017
+12105079|Sara Cosme Mendonça|Coimbra    Montemor-o-Velho    Arazede    5 956     5 272|19-06-2017
+12932678|Aparecida Abílio Barbosa Uchoa|Viseu    Sernancelhe    Paradela    151    580|19-06-2017
+65411257|Elaine Hermes Avelar|Porto    Gondomar    Covas    763    129|19-06-2017
+68320414|Isa Argeu Valério Póvoas|Braga    Cabeceiras de Basto    PedraÃ§a    895    1 249|19-06-2017
+40230632|Mateus Coelho|Guarda    Sabugal    Quinta de S. Bartolomeu    217    880|19-06-2017
+97859025|Nélida Moutinho|Viana do castelo    Arcos de Valdevez    Cabana Maior    365    1 011|19-06-2017
+16830361|Irina Mirandela|Santarem    Abrantes    Vale das MÃ³s    747    2 342 |19-06-2017
+34703524|Dória Lourdes Ramírez Pais|Vila Real    ValpaÃ§os    ValpaÃ§os    4 421     3 421|19-06-2017
+91018957|Flaviano Cesário Keil do Amaral|Lisboa    Loures    S. JoÃ£o da Talha    17 970     590|19-06-2017
+18113938|Atanásio Altino Quinteiro Madruga|AÃ§ores    Velas    Santo Amaro    902    2 123|19-06-2017
+30163704|Pascoal Pedro Betancour|Madeira    Ponta do Sol    Madalena do Mar    687    230|19-06-2017
+74780931|Valter Selma Paião|BraganÃ§a    BraganÃ§a    Carragosa    260    2 769|19-06-2017
+52054010|Melissa Xênia Bugalho Jesus|Castelo Branco    CovilhÃ£    Aldeia de S. Francisco de Assis    692    1 624|19-06-2017
+68512527|Benjamim Amanda Barcelos Carrasco|Santarem    Rio Maior    Arrouquelas    608    2 781|19-06-2017
+68598163|Odete Caldeira|Porto    Penafiel    CastelÃµes    1 413     394|19-06-2017
+44562177|Gervásio Paz|Guarda    Celorico da Beira    CortiÃ§Ã´ da Serra    229    496|19-06-2017
+95103193|Alexandrina Reginaldo Malta Varanda|BraganÃ§a    Mogadouro    Saldanha    203    2 572|19-06-2017
+17701340|Agostinha Úrsula Vilar|Coimbra    Coimbra    Ribeira de Frades    2 064     610|19-06-2017
+86966324|Quirina Donato Lagoa Horta|Faro    Alcoutim    Martim Longo    1 384     13 414|19-06-2017
+09767219|Dayse Bonifácio Morão Hipólito|Viseu    Tarouca    Salzedas    861    892|19-06-2017
+59729018|Alexandra Ginjeira|Viana do castelo    Paredes de Coura    Porreiras    96    752|19-06-2017
+75847294|Lissa Lencastre|Guarda    Almeida    Castelo Mendo    134    2 326|19-06-2017
+57747765|Dayse Abreu|Braga    Vila Verde    Loureira    1 013     187|19-06-2017
+68455710|Agostinha Monforte|Braga    Terras de Bouro Carvalheira    448    993|19-06-2017
+38323741|Aníbal Felgueiras|Beja    Ferreira do Alentejo    Figueira dos Cavaleiros    1 513     16 378|19-06-2017
+36880204|Marta Vanessa Abranches|Viseu    Sernancelhe    Vale de Figueira    146    471|19-06-2017
+13749420|Amanda Leme|Coimbra    Arganil    Pombeiro da Beira    1 252     3 238|19-06-2017
+78586707|Liliana Erasmo Costa|BraganÃ§a    Macedo de Cavaleiros    Lamas de Podence    287    871|19-06-2017
+16349181|Diana Laila Casalinho Furtado|Castelo Branco    Idanha-a-Nova    Monsanto    1 160     13 176|19-06-2017
+15373074|Maristela Secadura|Castelo Branco    CovilhÃ£    Dominguizo    1 188     488|19-06-2017
+05394448|Pedro Dânia Félix Quezado|Viseu    Viseu    Couto de Baixo    780    1 120|19-06-2017
+39798498|Vilma Edelina Telinhos|Viana do castelo    MelgaÃ§o    Prado    468    261|19-06-2017
+87448920|Eva Iara Barrocas Ramírez|Porto    Marco de Canaveses    S. Nicolau    491    85|19-06-2017
+74437154|Waldemar Nair Castanheira|Porto    Gondomar    Sousela    1 854     708|19-06-2017
+95424964|Aparecida Nadina Valadares Parafita|Porto    Amarante    Fregim    2 507     847|19-06-2017
+39872748|Arcelino Machado|Vila Real    Montalegre    Vila da Ponte    255    1 073|19-06-2017
+78391796|Cássio Urbino Bastos|Leiria    Porto de MÃ³s    Mendiga    1 016     2 001|19-06-2017
+48602564|Mafalda Agostinha Mora|Guarda    Sabugal    RuivÃ³s    68    1 106|19-06-2017
+44469396|Adolfo Diva Bugalho|Porto    Amarante    Aboim    652    508|19-06-2017
+49764165|Mariana Marins|Coimbra    LousÃ£    GÃ¢ndaras    (*)     (*)|19-06-2017
+67442196|Naum Edgar Marques Neres|Viseu    Viseu    Cota    1 281     4 050|19-06-2017
+89945683|David Alancastro|BraganÃ§a    Moncorvo    Felgueiras    438    2 295|19-06-2017
+82043502|Berenice Cândida Alancastre|Santarem    Almeirim    Almeirim    11 607     6 904|19-06-2017
+55985141|Orlando Regodeiro|Castelo Branco    PenamacÃ´r    Aldeia de JoÃ£o Pires    221    1 113|19-06-2017
+05400447|Hugo Jesus Souto|Portalegre    Amarante    Aboadela    887    2 085|19-06-2017
+45949618|Leila Belarmino Manso|Vila Real    Peso da RÃ©gua    Loureiro    1 452     512|19-06-2017
+19045639|Helga Romana Mainha|Vila Real    Chaves    Madalena    2 004     605|19-06-2017
+09326504|Loreta Brum|Santarem    Tomar    Beselga    880    1 373|19-06-2017
+47965334|Leandra Lorena Vaz Barrocas|Viseu    Sernancelhe    Freixinho    152    581|19-06-2017
+98409013|Bruna Taveira|Guarda    Gouveia    Melo    673    752|19-06-2017
+05942999|Darlene Ricarda Braga|Viseu    Viseu    Couto de Cima    886    1 302|19-06-2017
+24909675|Neli Judith Parracho Fontes|Porto    Paredes    Astromil    784    139|19-06-2017
+60275258|Milton Castilho|Castelo Branco    Castelo Branco    Retaxo    1 047     1 231|19-06-2017
+39444565|Maximiliano Onofre|Beja    Beja    Trindade    345    9 863 |19-06-2017
+13075400|Esaú Anlicoara|BraganÃ§a    AlfÃ¢ndega da FÃ©    Vales    70    714|19-06-2017
+11525844|Elvira Nívea Roriz|Viseu    Resende    S. Martinho de Mouros    1 738     1 467|19-06-2017
+73618247|Amândio Eugénio Souto Raminhos|Castelo Branco    SertÃ£    Troviscal    1 134     5 406|19-06-2017
+91087311|Muriel Márcia Guerreiro|Braga    Esposende    Curvos    831    345|19-06-2017
+14005548|Alessandra Magali Corvelo Malafaia|Vila Real    Montalegre    PitÃµes das Junias    201    3 689|19-06-2017
+95942865|Adriana Nadir Avelar Areosa|Aveiro    Mealhada    Torreira    2 495     3 209 |19-06-2017
+40592111|Aurélia Donato Barcelos Dâmaso|Porto    Amarante    FigueirÃ³ (Santiago)    2 986     407|19-06-2017
+97116884|Elaine Belmiro Quinta|Porto    Marco de Canaveses    Alpendurada e Matos    4 883     836|19-06-2017
+62810284|Fedra Taborda|Viana do castelo    Caminha    Vile    328    315|19-06-2017
+95674846|Adelina Novaes|Ã‰vora    Arraiolos    Sta. Justa    226    4 290|19-06-2017
+17274258|Cícero Valesca Bragança Ulhoa|Braga    Barcelos    Chorente    758    416|19-06-2017
+64081245|Miriam Manuelina Grilo|Ã‰vora    Mora    CabeÃ§Ã£o    1 259     4 744|19-06-2017
+27562597|Simão Virgolino Pestana |Castelo Branco    PenamacÃ´r    Ã�guas    330    1 519|19-06-2017
+22185227|Glena Souto Maior|Braga    PÃ³voa de Lanhoso (N. S. do Amparo)    Ajude    164    147|19-06-2017
+98069883|Fábio Sabino Bogado Oleiro|Viseu    Nelas    Aguieira    620    549|19-06-2017
+36973372|Anaísa Machado|Viana do castelo    Caminha    Vilar de Mouros    819    900|19-06-2017
+39469537|Leôncio Lisboa|Madeira    Funchal    Funchal (SÃ©)    2 148     367|19-06-2017
+61077210|Janaína Natacha Canto|Ã‰vora    Arraiolos    S. GregÃ³rio    396    7 436|19-06-2017
+38066390|Jacy Timóteo Lins Neves|BraganÃ§a    Miranda do Douro    GenÃ­sio    233    2 982|19-06-2017
+75126774|Francisca Cesária Remígio|Santarem    Coruche    Biscainho    1 057     8 003|19-06-2017
+12167409|Manuelina Carreiro|Viana do castelo    Arcos de Valdevez    PaÃ§Ã´    861    436|19-06-2017
+63823005|Odete Waldemar Hilário|BraganÃ§a    BraganÃ§a    Gondesende    226    1 277|19-06-2017
+78405141|Eliana Arantes|Braga    Fafe    EstorÃ£os    1 588     797|19-06-2017
+75693992|Idalina Betânia Nazário Flores|Braga    Fafe    Silvares (S. Clemente)    551    293|19-06-2017
+13651169|Vanderley Rita Corvelo Reino|Viseu    CinfÃ£es    CinfÃ£es    3 290     2 518|19-06-2017
+33709155|Mara Adorinda Rosário|BraganÃ§a    BraganÃ§a    GrijÃ³ de Parada    380    3 102|19-06-2017
+11498678|Venâncio Nadir Negreiros Beltrão|Aveiro    Ovar    Maceda    3 687     1 634|19-06-2017
+31103362|Artur Gusmão|Coimbra    Oliveira do Hospital    Lagos da Beira    912    849|19-06-2017
+17733114|Ermelinda Cassandra Picão Vargas|Santarem    Sardoal    Alcaravela    1 084     3 670|19-06-2017
+71103813|Ema Farinha|Viseu    Oliveira de Frades    S. Vicente de LafÃµes    793    778|19-06-2017
+29397130|Lourdes Maristela Taveiros|Madeira    Funchal    Funchal (SÃ©)    2 148     367|19-06-2017
+64936346|Manuelina Dolores Abrantes|Braga    Vila Nova de FamalicÃ£o    DelÃ£es    3 761     230|19-06-2017
+90859981|Esaú Adélia Lopes|Ã‰vora    Ã‰vora    Ã‰vora (Santo AntÃ£o)    1 473     27|19-06-2017
+53262859|Narciso Rico|Aveiro    Oliveira de Azemeis    Madail    884    260|19-06-2017
+04418379|Lourival Calvin Velázquez|Viseu    Armamar    Folgosa    503    477|19-06-2017
+64110424|Tasha Lamego|Aveiro    Estarreja    Avanca    6 474     2 154|19-06-2017
+13360439|Jonathan Ernane Sotomayor Salazar|Leiria    Porto de MÃ³s    Mira de Aire    3 951     1 677|19-06-2017
+89329857|Anacleto Furtado|Vila Real    Ribeira de Pena    Santo Aleixo de AlÃ©m-TÃ¢mega    447    1 230 |19-06-2017
+63188480|Gaspar Tibúrcio Rivero Nolasco|Porto    Amarante    Candemil    1 039     1 125|19-06-2017
+14228335|Amador Custódio|Viana do castelo    Ponte de Lima    Arcozelo    3 932     1 187|19-06-2017
+19564536|Alexandre Abílio Arruda Pedro|Viseu    Viseu    Viseu (S. JosÃ©)    5 709     395|19-06-2017
+08524173|Paulina Hélder Mendes Amorim|Leiria    NazarÃ©    NazarÃ©    10 080     4 068|19-06-2017
+82382949|Urbino Ezequiel Benevides|BraganÃ§a    Carrazeda de AnsiÃ£es    Seixo de AnsiÃ£es    367    2 210|19-06-2017
+59361395|Angelina Queirós|BraganÃ§a    Macedo de Cavaleiros    Ala    497    3 376|19-06-2017
+67491975|Nívia Eliana Morais|Santarem    Tomar    Junceira    833    1 302|19-06-2017
+15525201|Cristiana Paixão|Vila Real    Montalegre    Venda Nova    401    797|19-06-2017
+73109168|Lancelote Castelo Branco|Coimbra    Oliveira do Hospital    AvÃ´    633    771|19-06-2017
+91449587|Olívio Félix Azevedo|Porto    Vila Nova de Gaia    Canelas    12 303     747|19-06-2017
+56373240|Natanael Wilker Villalobos|Porto    Felgueiras    Borba de Godim    2 340     798|19-06-2017
+86635069|Judith Milheirão|Porto    Gondomar    Lustosa    4 437     1 038|19-06-2017
+70619482|Alfredo Adão Simas César|Aveiro    Ã�lhavo    Gafanha da NazarÃ©    14 021     1 565|19-06-2017
+17218887|Valdir Silvana Valim Padilla|Viana do castelo    MelgaÃ§o    ChaviÃ£es    431    447|19-06-2017
+65500194|Henriqueta Bouça|Aveiro    Ovar    Ovar    17 185     4 898|19-06-2017
+15945200|Marco Sebastião Cavaco Fidalgo|BraganÃ§a    Macedo de Cavaleiros    Macedo de Cavaleiros    6 087     1 534|19-06-2017
+17373842|Alba Peralta|Santarem    Abrantes    Rio de Moinhos    1 388     2 006|19-06-2017
+51987109|Golias Daniel Temes|Braga    PÃ³voa de Lanhoso (N. S. do Amparo)    PÃ³voa de Lanhoso (N. S. do Amparo)    4 602     562|19-06-2017
+79747695|Greta Faia|Guarda    Seia    Sta. Marinha    1 175     1 049|19-06-2017
+41501028|Catarina Patrício Pereira|Aveiro    Sever do Vouga    Couto de Esteves    1 055     1 695|19-06-2017
+14338703|Tâmara Barbalho|Madeira    Sta. Cruz    Gaula    3 092     707|19-06-2017
+91582001|Clara Volney Vilela Cachão|Viseu    Armamar    Queimada    304    370|19-06-2017
+89877036|Dejanira Alana Proença Jordão|Santarem    Vila Nova da Barquinha    Tancos    295    156|19-06-2017
+04440635|Cremilda Flávio Maior Avellar|Lisboa    Cadaval    Cercal    534    2 032|19-06-2017
+63715944|Hercília Tito Lameiras Blanco|Viseu    MortÃ¡gua    AlmaÃ§a    95    742|19-06-2017
+10808709|Conceição Querubim Guedes Caldeira|Madeira    Ponta do Sol    Madalena do Mar    687    230|19-06-2017
+89301752|Olga Valverde|BraganÃ§a    AlfÃ¢ndega da FÃ©    Sendim da Ribeira    118    1 535|19-06-2017
+09951196|Felisberto Esmeralda Paranhos|Guarda    Guarda    FamalicÃ£o    755    1 440|19-06-2017
+37420481|Genoveva Damazio|Braga    Vieira do Minho Parada do Bouro    529    795|19-06-2017
+69220180|Eugénia Cidália Morão|Leiria    Leiria    CoimbrÃ£o    1 930     5 462|19-06-2017
+80859340|Gaspar Jerônimo Cartaxo|Braga    Vizela    S. Paio de Vizela    1 394     228|19-06-2017
+57775509|Judite Kirina Varella|Viseu    CinfÃ£es    Tarouquela    1 339     655|19-06-2017
+25326200|Adriano Paulina Guilheiro Sarmento|Guarda    Guarda    Cavadoude    366    598|19-06-2017
+21701375|Fábio Alexandrina Quezado|Madeira    CÃ¢mara de Lobos    Quinta Grande    2 156     389|19-06-2017
+67746528|Ermelinda Clélia Osório Bogalho|Beja    Vidigueira    Vidigueira    2 973     2 762|19-06-2017
+28923809|Rute Jesabel Penteado Vergueiro|BraganÃ§a    Macedo de Cavaleiros    Talhinhas    244    2 529|19-06-2017
+43545203|Quirino Lurdes Bandeira Bento|Porto    PaÃ§os de Ferreira    Modelos    1 651     245|19-06-2017
+35748203|Misael Susete Loio|AÃ§ores    Vila Franca do Campo    Vila Franca do Campo (S. Pedro)    1 120     248|19-06-2017
+87292756|Martinho Katia Valcanaia Canedo|Santarem    ConstÃ¢ncia    Sta Margarida da Coutada    1 854     5 877 |19-06-2017
+26465324|Erasmo Kirina Avellar Franco|Porto    Amarante    FigueirÃ³ (Sta. Cristina)    1 532     402|19-06-2017
+91764824|Eleutério Péricles Peres |Porto    Santo Tirso    Reguenga    1 595     393|19-06-2017
+47962051|Jocelina Dúlio Palos Marmou|Porto    Vila Nova de Gaia    Vilar de Andorinho    16 710     652|19-06-2017
+26762381|Jorge Bivar|Guarda    Trancoso    Palhais    187    423|19-06-2017
+36734621|Clarissa Adolfo Quaresma|Viana do castelo    Arcos de Valdevez    Portela    307    306|19-06-2017
+81016869|Tiago Diego Capucho|SetÃºbal    GrÃ¢ndola    Azinheira dos Barros e S. Mamede    908    17 252|19-06-2017
+67550922|Atílio Altina Almeida|Beja    Odemira    Vale de Santiago    695    5 924|19-06-2017
+41426457|Odair Edelina Paredes Ávila|Viana do castelo    Caminha    OrbacÃ©m    264    514|19-06-2017
+13656772|Luis Cláudia Doutiz Abelho|Portalegre    Amarante    Aboadela    887    2 085|19-06-2017
+73443939|Iolanda Regalado|Porto    Maia    Vila Nova da Telha    5 368     606|19-06-2017
+71876079|Anselmo Valgueiro|Viana do castelo    ValenÃ§a    S. Pedro da Torre    1 232     429|19-06-2017
+55650140|Armanda Baião|Braga    Vila Verde    DosS.s    511    394|19-06-2017
+47838067|Aurélio Salguero|BraganÃ§a    BraganÃ§a    Calvelhe    137    2 305|19-06-2017
+70407451|Luciana Fabiana Muxagata Furtado|Coimbra    Mira    Praia de Mira    2 985     3 982|19-06-2017
+54853015|Juliana Carmo Godoi Garrau|Vila Real    Sabrosa    GouvÃ£es do Douro    240    630|19-06-2017
+33172484|Celeste Dias|Guarda    Trancoso    Freches    551    1 356|19-06-2017
+27708414|Levi Adalgisa Camilo|Viseu    Penalva do Castelo    Lusinde    247    204|19-06-2017
+05930448|Rosária Cristina Baldaia|Braga    Vila Nova de FamalicÃ£o    Fradelos    3 337     1 697|19-06-2017
+79177688|Filipe Marco Amado Dinis|Leiria    FigueirÃ³ dos Vinhos    Aguda    1 394     3 847|19-06-2017
+71264738|Catarina Taborda|Aveiro    Anadia    AvelÃ£s de Caminho    1 236     627|19-06-2017
+79076405|Tito Vidigal|Porto    Penafiel    Portela    1 381     475|19-06-2017
+86360754|Constantino Veloso|Viana do castelo    MonÃ§Ã£o    CeivÃ£es    574    346|19-06-2017
+00700995|Serena Judith Calheiros Henriques|Braga    Barcelos    Rio Covo (Sta. EugÃ©nia)    1 399     303|19-06-2017
+55422623|Rita Calvino Barateiro|BraganÃ§a    Vinhais    PaÃ§Ã³    236    1 692|19-06-2017
+74255705|Lurdes Carvalhais|Braga    Fafe    Felgueiras    135    542|19-06-2017
+83616044|Humberto Parreira|Viana do castelo    Arcos de Valdevez    Loureda    219    462|19-06-2017
+68394890|Libânio Agostinho Morais Secadura|Leiria    Pombal    Albergaria dos Doze    1 745     2 284|19-06-2017
+40825249|Rui Firmina Figueira|Santarem    Ferreira do ZÃªzere    Pias    534    987|19-06-2017
+96181428|Bonifácio Adriana Palha|Braga    Celorico de Basto    Carvalho    838    751|19-06-2017
+06127034|Walter Talita Sousa de Arronches|Lisboa    Odivelas    CaneÃ§as    10 647     585|19-06-2017
+64220499|Cleusa Valentim|Vila Real    Sabrosa    Covas do Douro    558    1 960|19-06-2017
+12568672|Valdemar Levina Carvalheiro Espartero|Vila Real    AlijÃ³    AlijÃ³    2 806     2 936|19-06-2017
+95524591|Jacinto Raimundo Bouças Lousã|Coimbra    Condeixa-a-Nova    Vila Seca    962    1 437|19-06-2017
+96668415|Lúcio Elisa Rabello|Vila Real    Boticas    Codessoso    168    845|19-06-2017
+54934226|Duarte Maria Muxagata|Vila Real    Vila Real    Vila Cova    239    693|19-06-2017
+46337600|Elton Kelvin Festas|BraganÃ§a    Vinhais    Ervedosa    445    3 098|19-06-2017
+92824842|Clotilde Sabino Damásio Passarinho|Guarda    Vila Nova de Foz CÃ´a    Almendra    457    5 451|19-06-2017
+89388738|Lita Leal|Vila Real    ValpaÃ§os    Vilarandelo    1 123     2 036 |19-06-2017
+53323541|Elaine António Urias Guedes|Guarda    Gouveia    Moimenta da Serra    707    575|19-06-2017
+46013370|Anita Fausto Aguiar|Braga    Barcelos    Vila Cova    1 970     956|19-06-2017
+32243513|Fábia George Grilo|Beja    Moura    Moura (S. JoÃ£o Baptista)    4 747     9 313|19-06-2017
+22754105|Wilton Kelly Quadros Corte-Real|Guarda    Gouveia    Cativelos    873    709|19-06-2017
+61460229|Olivier Conceição Sales|Viseu    Lamego    CepÃµes    919    540|19-06-2017
+03273848|Olívio Salgueiro|Viseu    Penalva do Castelo    Trancozelos    332    516|19-06-2017
+31293582|Luana Ferraço|Coimbra    Coimbra    Vil de Matos    775    820|19-06-2017
+83149605|Isilda Leitão|Viana do castelo    Arcos de Valdevez    SÃ¡    175    281|19-06-2017
+30853518|Gilda Azaléia Robalo|Viana do castelo    Ponte de Lima    Fornelos    1 535     1 050|19-06-2017
+36519579|Rogério Ângela Ginjeira Patrício|Castelo Branco    Idanha-a-Nova    Idanha-a-Nova    2 519     22 629|19-06-2017
+30116062|Yasmine Alvim|Aveiro    Murtosa    Bunheiro    2 707     2 460|19-06-2017
+74831766|Esdras Armando Bonilha Carromeu|BraganÃ§a    Mirandela    Lamas de OrelhÃ£o    462    1 939|19-06-2017
+23563370|Paulina Câmara|Braga    Braga    Tebosa    1 096     266|19-06-2017
+69305319|Renan Vanda Hilário Baldaia|Viana do castelo    MonÃ§Ã£o    Cambeses    484    417|19-06-2017
+51418614|Marcelo Isolina Paiva|Santarem    Tomar    Carregueiros    1 255     1 235|19-06-2017
+32661414|Gabriel Florência Monforte|Braga    Braga    Sobreposta    1 199     507|19-06-2017
+87507825|Marlene Castilho|Vila Real    Mondim de Basto    ParadanÃ§a    373    809|19-06-2017
+40364918|Núbia Leda Júdice|Lisboa    Oeiras    Queijas    8 771     735|19-06-2017
+22925848|Lúcio Varella|Faro    Faro    Faro (S. Pedro)    12 761     1 175|19-06-2017
+39947298|Joel Câmara|BraganÃ§a    BraganÃ§a    BraganÃ§a (SÃ©)    16 594     1 006|19-06-2017
+88766218|Altair Viana|Braga    Braga    Gualtar    3 807     379|19-06-2017
+76570141|Madalena Abílio Zagallo Cachão|Ã‰vora    Ã‰vora    S. Bento do Mato    1 343     6 655|19-06-2017
+22689655|Belmira Cíntia Quintais Olivares|BraganÃ§a    Mirandela    Carvalhais    1 350     2 478|19-06-2017
+19797991|Cidália Abílio Mondragão|Viseu    CinfÃ£es    Ramires    138    1 137|19-06-2017
+17108312|Simão Luciana Vilarinho|Ã‰vora    Borba    Rio de Moinhos    2 271     5 292 |19-06-2017
+80531963|Virgílio Camila Madruga Azeredo|Braga    Vila Verde    Marrancos    548    329|19-06-2017
+87599282|Natividade Cachão|Porto    Penafiel    Milhundos    1 657     448|19-06-2017
+02042108|Carminda Leocádia Barreiros Rua|SetÃºbal    Barreiro    Verderena    11 514     94|19-06-2017
+90516162|Áurea Natalina Feijó|Madeira    Calheta (Madeira)    Calheta    3 105     1 400|19-06-2017
+53242100|Dagmar Olímpio Rangel Benevides|Leiria    Porto de MÃ³s    S. Bento    953    3 970|19-06-2017
+14360708|Vinicios Duílha Teves Vilalobos|Braga    Braga    Este (S. Mamede)    1 709     578|19-06-2017
+76367680|Carminda Tibúrcio Cascais Sardinha|Braga    Cabeceiras de Basto    GondiÃ£es    314    2 165|19-06-2017
+58162228|Alfeu Infante|Braga    GuimarÃ£es    Prazins (Sta. EufÃ©mia)    1 274     251|19-06-2017
+32671680|Tabita Eugénia Keil|Aveiro    Castelo de Paiva    ParaÃ­so    975    2 485|19-06-2017
+86045874|Lívio Israel Freixo Igrejas|Guarda    Sabugal    Vale de Espinho    512    3 815|19-06-2017
+96466190|Ania Neves|Vila Real    Ribeira de Pena    Ribeira de Pena (Salvador)    2 573     3 814|19-06-2017
+92642210|Morgana Joel Trigueiro|Aveiro    Aveiro    GlÃ³ria    9 917     680|19-06-2017
+95146435|Rosário Idalinda Antas|Guarda    Figueira de Castelo Rodrigo    Penha de Ã�guia    169    1 746|19-06-2017
+41805020|Bianca Bianca Olivares Fonseca|Madeira    Ponta do Sol    Canhas    3 214     1 330|19-06-2017
+59086443|Amanda Morão|Porto    Felgueiras    Varziela    1 985     280|19-06-2017
+52327972|Neandro Festas|Vila Real    MesÃ£o Frio    Vila JusÃ£    687    212|19-06-2017
+55058128|Consuela Joaquim Guilheiro Villas Boas|Castelo Branco    FundÃ£o    Barroca    634    2 314|19-06-2017
+27137245|Olinda Piteira|Leiria    AlcobaÃ§a    Benedita    8 233     2 950|19-06-2017
+29274059|Alma Esmeralda Cavaco Reis|Porto    Marco de Canaveses    Toutosa    557    98|19-06-2017
+94282049|Octávia Viegas|Beja    Beja    Albernoa    890    10 989|19-06-2017
+09986303|Hugo Meirelles|Santarem    Abrantes    Tramagal    4 043     2 406|19-06-2017
+73172393|Deolinda Café|BraganÃ§a    AlfÃ¢ndega da FÃ©    Agrobom    154    1 553|19-06-2017
+39448311|Cleide Inês|Porto    Penafiel    Rio de Moinhos    2 977     756|19-06-2017
+97161889|Nicia Vanderley Esteves Vale|Vila Real    Boticas    Granja    266    879|19-06-2017
+69293624|Cristiana Álvares|AÃ§ores    Praia da VitÃ³ria    Porto Martins    (*)     (*)|19-06-2017
+66467423|Ifigénia Glaucia Alencar Castro|Aveiro    S. JoÃ£o da Madeira    S. JoÃ£o da Madeira    21 102     811|19-06-2017
+23162024|Núria Frade|Braga    Vila Nova de FamalicÃ£o    Gondifelos    2 183     853|19-06-2017
+51119447|Clóvis Paula|Porto    Paredes    CastelÃµes de Cepeda    7 299     369|19-06-2017
+03352070|Gonçalo Júlia Vilanova|Viseu    Tondela    FerreirÃ³s do DÃ£o    410    835|19-06-2017
+52948738|Justina Jocelina Marino Torres|Viana do castelo    MonÃ§Ã£o    Troporiz    297    238|19-06-2017
+68812194|Mavilde Eurico Franco|Guarda    Guarda    Monte Margarida    44    381|19-06-2017
+14623595|Matilde Edna Mascareñas|Coimbra    Miranda do Corvo    Miranda do Corvo    7 140     4 661|19-06-2017
+79068076|Flora Manuelina Mendonça|Santarem    Santarem    Achete    1 895     3 163|19-06-2017
+90882575|Naum Sílvia Onofre Sant'Anna|Viseu    Sernancelhe    Fonte Arcada    279    1 187|19-06-2017
+43849990|Belmira Rangel|Guarda    Guarda    Albardo    181    382|19-06-2017
+90976230|Nívea Jonata Bentes Gomide|Guarda    Trancoso    Terrenho    137    673|19-06-2017
+22211844|Ferdinando Antero Cunha|Aveiro    Oliveira do Bairro    OiÃ£    6 712     2 674|19-06-2017
+85298317|Pelágio Nara Esteves Sacramento|Viana do castelo    Vila Nova de Cerveira    Loivo    859    526|19-06-2017
+53040743|Nair Benvinda Marmou Prates|Ã‰vora    Ã‰vora    Senhora da SaÃºde    9 415     3 403|19-06-2017
+70566072|Micaela Clotilde Ouro Borja|Viana do castelo    Arcos de Valdevez    Mei    142    200|19-06-2017
+24846801|Juliano Milene Canadas|BraganÃ§a    BraganÃ§a    Rio Frio    232    3 440|19-06-2017
+81390507|Gisela Manuel Ramires|Viseu    Sernancelhe    Sta. LeocÃ¡dia    134    299|19-06-2017
+99510335|Nair Eurico Valério Gusmão|Santarem    Alcanena    Louriceira    611    1 278|19-06-2017
+54153215|Clotilde Perceu Rebelo|Leiria    AnsiÃ£o    Torre de Vale de Todos    456    1 174 |19-06-2017
+47288535|Gilberto Sílvio Lameiras|Viana do castelo    MonÃ§Ã£o    Segude    389    256|19-06-2017
+25685375|Dulce Nancy Brito|AÃ§ores    PovoaÃ§Ã£o    Faial da Terra    377    1 269|19-06-2017
+62349989|Sílvio Volney Nazário|Porto    Penafiel    Santiago de Subarrifana    1 050     175|19-06-2017
+08703685|Ingrid Bogalho|Viseu    Sta. Comba DÃ£o    S. JoÃ£o de Areias    2 283     2 144|19-06-2017
+24393063|Antero Vilalobos|Santarem    ConstÃ¢ncia    Montalvo    1 081     1 251|19-06-2017
+61322715|Constança Amândio Tabosa|Leiria    AnsiÃ£o    Pousaflores    1 201     2 636|19-06-2017
+44710740|Elaine Leopoldo Cavadas Galindo|Viana do castelo    Caminha    Azevedo    158    558|19-06-2017
+81297721|Arlete Salles|Coimbra    Figueira da Foz    Lavos    4 171     3 574|19-06-2017
+28670606|David Açores|BraganÃ§a    Carrazeda de AnsiÃ£es    Selores    171    819|19-06-2017
+63820480|Acúrcio Robalinho|Ã‰vora    Borba    Orada    878    5 083|19-06-2017
+27945355|Virgolina Leite|Porto    PÃ³voa de Varzim    Beiriz    3 229     431|19-06-2017
+56717003|Lourival Lancastre|Viseu    Sernancelhe    Granjinha    52    248|19-06-2017
+63293449|Maurício Matilde Ornellas Souto|Viseu    Mangualde    Travanca de Tavares    155    417|19-06-2017
+19261256|Marta Mariete Letras Moniz|Santarem    Abrantes    Abrantes (S. Vicente)    10 698     3 864|19-06-2017
+21153724|Salema Alfeu Castro Leiria|Viana do castelo    Arcos de Valdevez    Extremo    157    833|19-06-2017
+65242019|Arnaldo Guilhermina Rocha Faia|Guarda    Gouveia    Folgosinho    580    5 233|19-06-2017
+49026399|Alva Garrido|Viseu    Sernancelhe    Carregal    510    1 973|19-06-2017
+27876509|Lucinda Honório Caldeira Prado|Viseu    Lamego    Ferreiros de AvÃµes    572    277|19-06-2017
+15616815|Jó Amélia Reino Capistrano|Viseu    Tarouca    DÃ¡lvares    621    304|19-06-2017
+95784529|Octávia Vides|Leiria    Pombal    Almagreira    3 075     4 318|19-06-2017
+31144382|Elisabete Gomes|Viana do castelo    ValenÃ§a    Sanfins    154    850|19-06-2017
+16620373|Janaína Calvin Taveira|Leiria    AlcobaÃ§a    BÃ¡rrio    1 707     1 515|19-06-2017
+14386612|Hildegarda Lorena Salazar|Braga    GuimarÃ£es    Tabuadelo    1 723     341|19-06-2017
+04050759|Conceição Evelina Cavaco Mortágua|Viseu    Castro Daire    Ribolhos    306    232|19-06-2017
+93249831|Nina Vieira Matos|AÃ§ores    PovoaÃ§Ã£o    Furnas    1 541     3 388|19-06-2017
+13450584|Luana Caetano Meira|Guarda    Vila Nova de Foz CÃ´a    Sta. Comba    290    3 083|19-06-2017
+89368269|Miracema Darcy Toledo|Vila Real    Chaves    Oura    652    1 426|19-06-2017
+57625011|Jessé Normando Bettencourt|Guarda    Guarda    Arrifana    735    1 716|19-06-2017
+16619824|Paulina Ivone Neto Campos|Viseu    Castro Daire    GafanhÃ£o    177    776|19-06-2017
+61801853|Martinho Ermínia Marino Saldanha|Beja    Cuba    Cuba    3 124     6 993|19-06-2017
+87131455|Nilson Octávia Santana Pereira|Viseu    Oliveira de Frades    S. JoÃ£o da Serra    643    1 221|19-06-2017
+21828856|Alana Vilela Barreiros Grillo|Braga    GuimarÃ£es    AirÃ£o (S. JoÃ£o Baptista)    886    282|19-06-2017
+20246714|Odete Amado Méndez|Braga    Barcelos    Encourados    559    438|19-06-2017
+13808435|Clara Rabello|Braga    Vieira do Minho VilarchÃ£o    291    855|19-06-2017
+38644825|Altina Urbano Sequeira|Viseu    Viseu    Orgens    3 462     1 053|19-06-2017
+82686487|Edson Saldanha|BraganÃ§a    Mirandela    Aguieiras    375    1 468|19-06-2017
+17791863|Aldina Aponino Lages|Braga    Fafe    Armil    820    518|19-06-2017
+81140930|Alba Abranches|Viana do castelo    Arcos de Valdevez    Gavieira    446    5 756|19-06-2017
+46652628|Neli Vicente Veiga|Braga    Braga    Gondizalves    1 409     176|19-06-2017
+16592282|Alexandre Carmen Miera Fagundes|Porto    Lousada    Aveleda    1 952     369|19-06-2017
+66678606|Kirina Martinho Pedrozo Braga|Porto    Vila Nova de Gaia    S. Felix da Marinha    11 171     900|19-06-2017
+02534884|Albino Parreira|Lisboa    Amadora    Venda Nova    11 334     126|19-06-2017
+04045028|Jessica Romualdo Cruz|Viana do castelo    MonÃ§Ã£o    Troporiz    297    238|19-06-2017
+82812951|Caio Madalena Baldaia|Lisboa    Lisboa    S. Miguel    1 777     6|19-06-2017
+76172721|Edite Prudente|Castelo Branco    CovilhÃ£    Orjais    859    1 555|19-06-2017
+80088686|Rebeca Élia Lencastre Lira|SetÃºbal    Palmela    Pinhal Novo    20 993     5 584|19-06-2017
+09703976|Jocelina Maranhão|Ã‰vora    Ã‰vora    Ã‰vora (Santo AntÃ£o)    1 473     27|19-06-2017
+44560225|Damiana Bebiana Xavier Toscano|AÃ§ores    Lajes do Pico    Ribeirinha    411    867|19-06-2017
+07332536|Romana Gil Macedo|Porto    Amarante    Bustelo    577    665|19-06-2017
+61012860|Carol Constança Bencatel Leça|Lisboa    Lisboa    S. Vicente de Fora    4 267     31|19-06-2017
+95323579|Emanuela Dayse Valladares Belchior|Aveiro    Oliveira do Bairro    Mamarrosa    1 452     654|19-06-2017
+12374554|Cíntia Salomão Carvalhal|Santarem    Cartaxo        Vila ChÃ£ de Ourique    2 948     3 319 |19-06-2017
+98098783|Renata Souza|Vila Real    AlijÃ³    Vila ChÃ£    579    1 965|19-06-2017
+86142636|Arlete Eulália Rosmaninho Villas Boas|Lisboa    Lisboa    Lapa    8 671     72|19-06-2017
+33857812|Adolfo Meireles|Beja    Aljustrel    S. JoÃ£o de Negrilhos    1 723     7 659 |19-06-2017
+84936866|Nina Cardoso|BraganÃ§a    Mirandela    Alvites    282    1 781|19-06-2017
+38776685|Douglas Guedelha|Braga    Barcelos    Oliveira    1 038     546|19-06-2017
+72387687|Ermelinda Laila Quintal Castilho|AÃ§ores    Ponta Delgada    CandelÃ¡ria    1 184     853|19-06-2017
+31059191|Isaías Lessa|Viseu    Lamego    VÃ¡rzea de Abrunhais    478    716|19-06-2017
+25726665|Amélia Hugo Dourado Negromonte|Viana do castelo    Ponte de Lima    Feitosa    828    307|19-06-2017
+32500196|Constança Valentino Aguiar|Viseu    Penalva do Castelo    Trancozelos    332    516|19-06-2017
+90781721|Edelmiro Vágner Ramírez Blanco|AÃ§ores    Lagoa (AÃ§ores)    Cabouco    1 736     515|19-06-2017
+66188396|Deolinda Marisa Tigre Hilário|Lisboa    Oeiras    Barcarena    11 847     901|19-06-2017
+55392202|Tasha Lancelote Quental Bogado|Coimbra    Penacova    LorvÃ£o    4 220     2 577|19-06-2017
+66865337|Plácida Nascimento|Viana do castelo    Caminha    Arga de Baixo    99    970|19-06-2017
+48947328|Ernesto Carneiro|Aveiro    Oliveira de Azemeis    Cesar    3 288     656|19-06-2017
+72209984|Elsa Pessoa|Castelo Branco    Idanha-a-Nova    Segura    233    7 376|19-06-2017
+96429225|Batista Soeiro|BraganÃ§a    Moncorvo    CabeÃ§a Boa    469    2 583|19-06-2017
+61349049|Ania Alda Quintella|SetÃºbal    Seixal    Aldeia de Paio Pires    10 937     1 214|19-06-2017
+56447023|Graziela Lia Fitas Sesimbra|Vila Real    Boticas    Covas do Barroso    348    2 967|19-06-2017
+29903797|Pamela Adosinda Bacelar|Santarem    Tomar    Olalhas    1 581     3 459|19-06-2017
+44328124|Elvira Silvana Faia|Lisboa    Oeiras    Oeiras e S. JuliÃ£o da Barra    34 850     227|19-06-2017
+52457736|Júlia Melissa Ilha Moita|Castelo Branco    Castelo Branco    Ninho do AÃ§or    473    1 190|19-06-2017
+18433077|Dácio Esaú Fraga|BraganÃ§a    BraganÃ§a    FranÃ§a    275    5 616|19-06-2017
+38081777|Igor Neto|Lisboa    Azambuja    Vila Nova de S. Pedro    725    1 438 |19-06-2017
+94518754|Marina Café|Viana do castelo    Ponte de Lima    NaviÃ³    243    90|19-06-2017
+12839263|Altino Jacinta Lobo Veiga|Guarda    Gouveia    Vila Nova de Tazem    2 011     1 577|19-06-2017
+18587402|Celeste Humberto Sousa do Prado Silva|Vila Real    Chaves    Vilela do TÃ¢mega    451    956|19-06-2017
+06647251|Valentino Borges|Vila Real    AlijÃ³    Vila ChÃ£    579    1 965|19-06-2017
+16776807|Bebiana Mantas|BraganÃ§a    Macedo de Cavaleiros    Sta. Combinha    72    490|19-06-2017
+53567442|Dóris Índia Marreiro Corte-Real|SetÃºbal    Moita    Vale da Amoreira    12 358     252|19-06-2017
+08043889|Martina Conceição|Braga    Braga    Palmeira    4 594     872|19-06-2017
+56425016|Duarte Lia Braga Vilaverde|AÃ§ores    Velas    Rosais    820    2 444|19-06-2017
+23479138|Josué Cordélia Robalinho|Viseu    Penalva do Castelo    Esmolfe    485    1 070|19-06-2017
+75691881|Nádia Justina Castel-Branco Felgueiras|Beja    MÃ©rtola    S. SebastiÃ£o dos Carros    300    7 176 |19-06-2017
+33646022|Vera Pais|Leiria    Porto de MÃ³s    Porto de MÃ³s (S. Pedro)    2 869     1 618|19-06-2017
+80237911|Hirondina Altina Lousã Nazário|Guarda    Pinhel    Freixedas    1 066     3 694|19-06-2017
+69910809|Vilma Janaína Moita|Leiria    Caldas da Rainha    Caldas da Rainha (Santo Onofre)    10 775     911|19-06-2017
+56255755|Kevin Rivero|BraganÃ§a    Macedo de Cavaleiros    Morais    704    5 280|19-06-2017
+40780520|Venceslau Raul Neres|Braga    Vila Nova de FamalicÃ£o    Esmeriz    1 905     375|19-06-2017
+85571479|Vitorino Vinicios Passos Torcato|Viseu    Penalva do Castelo    Mareco    128    393|19-06-2017
+14630208|Fátima Karen Fialho|Braga    Celorico de Basto    Canedo de Basto    1 028     1 023|19-06-2017
+12453222|Cristela Luz|Lisboa    Vila Franca de Xira    S. JoÃ£o dos Montes    4 409     1 799|19-06-2017
+31980002|Aécio Marmou|Guarda    Almeida    Parada    158    1 278|19-06-2017
+95961562|Frederica Clementina Raposo Bezerril|BraganÃ§a    AlfÃ¢ndega da FÃ©    AlfÃ¢ndega da FÃ©    2 016     4 455|19-06-2017
+36337519|Alma Leôncio Festas|Braga    Barcelos    Couto    349    360|19-06-2017
+75041150|Clóvis Lourdes Candal|Castelo Branco    Vila Velha de RÃ³dÃ£o    Perais    589    8 184|19-06-2017
+87222867|Honória Vilela|Porto    Santo Tirso    Reguenga    1 595     393|19-06-2017
+45277942|Yara Dóris Valadão|Santarem    OurÃ©m    Matas    1 032     1 403|19-06-2017
+49722879|Amador Guterres|Porto    Matosinhos    Sta. Cruz do Bispo    6 108     375|19-06-2017
+88322405|Valentim Queiroga|Braga    Barcelos    GÃ³ios    567    270|19-06-2017
+18440558|Joviano Lourival Gomes Belchior|Leiria    Caldas da Rainha    Nadadouro    1 422     922|19-06-2017
+76854384|Ulisses Ifigénia Godinho|Porto    Felgueiras    Refontoura    1 974     352|19-06-2017
+41189682|Eunice Noélia Lopes|Guarda    Guarda    Seixo Amarelo    126    1 203|19-06-2017
+86304348|Vanderlei Liane Silvestre Cambezes|Lisboa    Azambuja    Vale do ParaÃ­so    1 040     445|19-06-2017
+01025955|Ezequias Beça|Braga    GuimarÃ£es    Brito    4 605     614|19-06-2017
+50538012|Artur Raimunda Mayor Iglesias|Porto    Amarante    Vila ChÃ£o do MarÃ£o    1 078     661|19-06-2017
+13316671|Ado Alencastre|Santarem    Vila Nova da Barquinha    Praia do Ribatejo    2 087     2 024|19-06-2017
+58859558|Salema Vicente Cangueiro|Braga    Vizela    S. Paio de Vizela    1 394     228|19-06-2017
+71235788|Xênia Margarida Açores Vilas Boas|Faro    Faro    Montenegro    5 336     2 301|19-06-2017
+18728277|Afonso Janaína Camelo Pastana|SetÃºbal    GrÃ¢ndola    Melides    1 789     16 270|19-06-2017
+44631559|Marisela Volney Vilhena|Braga    Vieira do Minho Rossas    2 071     3 239|19-06-2017
+99378688|Ferdinanda Carreira|Guarda    Fornos de Algodres    Vila Soeiro do ChÃ£o    237    456|19-06-2017
+07403601|Elton Virgílio Cerqueira Sotomayor|Lisboa    Torres Vedras    Outeiro da CabeÃ§a    932    702|19-06-2017
+60005132|Guilhermina Frederico Silva Velázquez|Castelo Branco    CovilhÃ£    Cortes do Meio    969    4 819|19-06-2017
+19625347|Hélio Roberto Castanheira Villas Boas|Guarda    Aguiar da Beira    Pinheiro    287    1 766|19-06-2017
+09563073|Glaucia Elisa Fortunato|Guarda    Celorico da Beira    AÃ§ores    369    957|19-06-2017
+39658055|Miranda Ondina Pires Maciel|Ã‰vora    Arraiolos    Vimieiro    1 600     25 247|19-06-2017
+54401244|Delfino Ariela Pontes|Santarem    OurÃ©m    Ribeira do FÃ¡rrio    900    2 092|19-06-2017
+55775309|Gaspar Adrião Marques Soares|Porto    PaÃ§os de Ferreira    FrazÃ£o    4 276     535|19-06-2017
+57476639|Acúrcio Jandira Robalinho|BraganÃ§a    Moncorvo    Urros    325    5 743 |19-06-2017
+75221424|Valentino Deonilde Baldaia Maciel|Guarda    Vila Nova de Foz CÃ´a    MurÃ§a    135    819|19-06-2017
+24878815|Dores Luzia Açores Gameiro|Coimbra    Vila Nova de Poiares    Arrifana    1 603     2 411|19-06-2017
+09834007|Lurdes Roberto Pádua Albuquerque|Madeira    Calheta (Madeira)    FajÃ£ da Ovelha    1 016     2 400|19-06-2017

@@ -21,22 +21,44 @@ public class GameOfChance {
             System.out.println("\nComandos:\n" +
                     "1 - Registar apostador manualmente\n" +
                     "2 - Registar apostador automaticamente\n" +
-                    "3 - Acrescentar aposta\n" +
-                    "4 - Gerar chave\n" +
-                    "5 - Verificar prémios\n" +
-                    "6 - Fechar aplicação\n" +
+                    "3 - Registar N apostadores automaticamente\n" +
+                    "4 - Acrescentar aposta manualmente\n" +
+                    "5 - Acrescentar N apostas automaticamente\n" +
+                    "6 - Gerar chave\n" +
+                    "7 - Verificar prémios\n" +
+                    "8 - Fechar aplicação\n" +
                     "Inserir número do comando desejado:");
             int input = io.nextInt();
             switch(input){
                 case 1: registerPlayerManual(); break;
                 case 2: registerPlayerAutomatic(); break;
-                case 3: addBet(); break;
-                case 4: generateResult(); break;
-                case 5: getPrizes(); break;
-                case 6: running = false; break;
+                case 3: registerNPlayers(); break;
+                case 4: addBetManually(); break;
+                case 5: addNBets(); break;
+                case 6: generateResult(); break;
+                case 7: getPrizes(); break;
+                case 8: running = false; break;
                 default:
                     System.out.println("Comando inválido."); break;
             }
+        }
+    }
+
+    private static void addNBets() {
+        System.out.println("Quantas apostas pretende gerar?");
+        int n = io.nextInt();
+        System.out.println("Em que sorteio deseja apostar? (nº do sorteio)");
+        int sorteio = io.nextInt();
+        for (int i = 0; i < n; i++){
+            addBetAutomatically(sorteio, i+1);
+        }
+    }
+
+    private static void registerNPlayers() {
+        System.out.println("Quantos jogadores pretende gerar?");
+        int n = io.nextInt();
+        for (int i = 0; i < n; i++){
+            registerPlayerAutomatic();
         }
     }
 
@@ -111,7 +133,7 @@ public class GameOfChance {
         System.out.println("Jogador " + nome + " adicionado.");
     }
 
-    private static void addBet() {
+    private static void addBetManually() {
         System.out.println("Insira o seu número de cidadão");
         Boolean valid = false;
         String id = "";
@@ -167,6 +189,30 @@ public class GameOfChance {
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
+
+    private static void addBetAutomatically(int sorteio, int n) {
+        try {
+            String id = getId(n);
+            int[] numbers = generateRandomBet();
+            String data = new SimpleDateFormat("dd-MM-yyyy").format(new Date());
+            String line = id + "|" + numbers[0] + "-" + numbers[1] + "-" + numbers[2] + "|" + data + "|" + sorteio + "\n";
+            appendToFile("apostas.txt", line);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+    }
+
+    private static String getId(int i) throws IOException {
+        String currentId;
+            try (BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(new File("apostadores.txt"))))) {
+                String current;
+                for (int j = 0; j < i-1; j++) {
+                    br.readLine();
+                }
+                return br.readLine().substring(0, 7);
+            }
     }
 
     private static int[] generateRandomBet() {

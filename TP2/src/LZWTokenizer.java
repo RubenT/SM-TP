@@ -28,7 +28,7 @@ public class LZWTokenizer {
                 fr.write(write);
                 compressed += outputLength;
             }
-            fr.write("Original = " + original + ", Compressed = " + compressed + ", Ratio = " + (1-((float)compressed/original))*100 + "%");
+            fr.write("Original = " + original + ", Compressed = " + compressed + ", Ratio = " + (((float)compressed/original))*100 + "%");
         } catch (IOException e) {
             e.printStackTrace();
         }
