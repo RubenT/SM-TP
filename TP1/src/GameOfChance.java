@@ -50,7 +50,7 @@ public class GameOfChance {
         System.out.println("Em que sorteio deseja apostar? (nº do sorteio)");
         int sorteio = io.nextInt();
         for (int i = 0; i < n; i++){
-            addBetAutomatically(sorteio, i+1);
+            addBetAutomatically(sorteio);
         }
     }
 
@@ -114,13 +114,10 @@ public class GameOfChance {
     private static void registerPlayerAutomatic() {
         String id, nome = "";
         try {
-            do {
                 id = "";
                 for (int i = 0; i < 8; i++) {
                     id += random.nextInt(10);
                 }
-            }
-            while (containsPlayer(id, "apostadores.txt"));
 
             nome = getRandomName();
             String local = getRandomLocal();
@@ -191,13 +188,17 @@ public class GameOfChance {
         }
     }
 
-    private static void addBetAutomatically(int sorteio, int n) {
+    private static void addBetAutomatically(int sorteio) {
         try {
-            String id = getId(n);
+            String id = "";
+            for (int i = 0; i < 8; i++) {
+                id += random.nextInt(10);
+            }
             int[] numbers = generateRandomBet();
             String data = new SimpleDateFormat("dd-MM-yyyy").format(new Date());
             String line = id + "|" + numbers[0] + "-" + numbers[1] + "-" + numbers[2] + "|" + data + "|" + sorteio + "\n";
             appendToFile("apostas.txt", line);
+            System.out.println(line);
         } catch (IOException e) {
             e.printStackTrace();
         }
