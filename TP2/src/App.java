@@ -1,12 +1,16 @@
+import SMVideoConverterEditor.VideoApp;
+
 import java.util.Scanner;
+
+import static java.lang.Integer.parseInt;
 
 public class App {
     private static boolean running;
     public static void main(String[] args) {
-        init();
+        run();
     }
 
-    private static void init() {
+    private static void run() {
         running = true;
         Scanner io = new Scanner(System.in);
         while(running){
@@ -19,7 +23,7 @@ public class App {
     private static void run(int command) {
         switch(command){
             case 1: LZWTokenizer.execute(); break;
-            case 2: SMVideoConverterEditor.execute(); break;
+            case 2: VideoApp.run(); break;
             case 3: running = false;
             default: break;
         }
