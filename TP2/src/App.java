@@ -22,7 +22,7 @@ public class App {
 
     private static void run(int command) {
         switch(command){
-            case 1: Golomb.execute("squares.raw", 3);break;
+            case 1: Golomb.execute("lena.raw", 5);break;
             case 2: LZWTokenizer.execute(); break;
             case 3: VideoApp.run(); break;
             case 4: running = false;
