@@ -38,7 +38,7 @@ public class Commands {
                 ">");
         String end = io.nextLine();
         try {
-            new ProcessBuilder("ffmpeg.exe", "-i", input, "-r", "fps", "-ss", start, "-to", end, "output%03d.jpg").start();
+            new ProcessBuilder("ffmpeg.exe", "-i", input, "-r", fps, "-ss", start, "-to", end, "output%03d.jpg").start();
         } catch (IOException e) {
             e.printStackTrace();
         }
