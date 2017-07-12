@@ -22,18 +22,20 @@ public class App {
 
     private static void run(int command) {
         switch(command){
-            case 1: LZWTokenizer.execute(); break;
-            case 2: VideoApp.run(); break;
-            case 3: running = false;
+            case 1: Golomb.execute("squares.raw", 3);break;
+            case 2: LZWTokenizer.execute(); break;
+            case 3: VideoApp.run(); break;
+            case 4: running = false;
             default: break;
         }
     }
 
     private static void showCommands() {
         System.out.print("Command list:\n" +
-                "1. LZWTokenizer\n" +
-                "2. SMVideoConverterEditor\n" +
-                "3. Exit\n" +
+                "1. Golomb\n" +
+                "2. LZWTokenizer\n" +
+                "3. SMVideoConverterEditor\n" +
+                "4. Exit\n" +
                 ">");
     }
 }
